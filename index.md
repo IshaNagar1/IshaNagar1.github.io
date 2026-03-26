@@ -1,4 +1,4 @@
-# What Is Hearing, Really?
+# Hearing in Real Life
 
 **A guide to hearing, hearing loss, care, and community.**
 
