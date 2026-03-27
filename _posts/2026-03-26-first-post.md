@@ -1,4 +1,4 @@
-Let's talk about hearing and hearing loss
+Let's talk about hearing and hearing loss! 
 - what it means 
 - why it is important 
 - next steps
@@ -24,6 +24,8 @@ The brain, then does its job of recognizing those
 sounds and picking out what is relevant to you, and 
 helps filter out unnecessary noise for concentration. 
 
+___
+
 HEARING LOSS: ITS DEFINITION
 
 ___
@@ -36,6 +38,8 @@ like silence but not exactly. Many times, conversations
 are difficult to understand, sound distorted or fuzzy. 
 You may hear an airplane in the sky fly over your city, but
 you also may not hear whispers.
+
+___
 
 WHY IS HEARING SO IMPORTANT? 
 
@@ -53,6 +57,8 @@ See what I did there? This occurs more often for people with hearing loss.
 This showcases how difficult it may be for a person to keep up with a conversation.
 The brain has to work overtime to 'fill in the blanks', which can make anyone
 exhausted by the end of the day. 
+
+___
 
 NEXT STEPS
 
