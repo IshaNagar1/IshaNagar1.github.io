@@ -3,22 +3,37 @@
 
 @import "minima";
 
+/* Footer layout */
 .footer-container {
   display: flex;
   justify-content: space-between;
   align-items: flex-start;
-  padding-top: 20px;
+  gap: 40px;
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 24px 20px 0 20px;
 }
 
-.footer-left, .footer-right {
-  width: 45%;
+.footer-left,
+.footer-right {
+  width: 48%;
+}
+
+.footer-left {
+  text-align: left;
 }
 
 .footer-right {
   text-align: right;
 }
 
+.footer-left p,
+.footer-right p {
+  margin: 0 0 8px 0;
+}
+
 .disclaimer {
-  font-size: 0.85em;
+  font-size: 0.9em;
   color: #666;
+  line-height: 1.5;
 }
