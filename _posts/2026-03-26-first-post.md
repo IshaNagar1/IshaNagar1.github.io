@@ -70,7 +70,7 @@ when to seek help. Next time, we’ll talk about the different types
 of hearing loss and what that actually means. 
 
 See you soon! 💙
-- Isha :) 
+Isha :) 
 
 
 
