@@ -5,7 +5,7 @@ layout: default
 <div style = "display: flex; justify-content: center; gap: 30px; align-items: flex-start;">
 
   <div style="width: 180px; flex-shrink: 0;">
-    <img src="assets/images/left.jpg" alt="Left Image" style="width: 100%; border-radius: 12px; opacity: 0.9;">
+    <img src="assets/images/cartoon.jpg" alt="cartoon" style="width: 100%; border-radius: 12px; opacity: 0.9;">
   <div>
     
   </div> style="max-width: 720px; flex: 1;">
@@ -47,7 +47,7 @@ Hearing is more than ears — it’s how we connect, learn, and belong. I wanted
 </div>
 
 <div style="width: 180px; flex-shrink: 0;">
-  img src="/assets/images/right.jpg" alt="Right image" style="width: 100%; border-radius: 12px; opacity: 0.9 ;">
+  img src="/assets/images/cartoon.jpg" alt="cartoon" style="width: 100%; border-radius: 12px; opacity: 0.9 ;">
 <div>
   
 </div>
