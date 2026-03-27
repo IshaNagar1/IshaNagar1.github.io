@@ -1,9 +1,11 @@
+---
+---
 
----
----
+@import "minima";
+
 .footer-container {
-  display: flex !important;
-  justify-content: space-between !important;
+  display: flex;
+  justify-content: space-between;
   align-items: flex-start;
   padding-top: 20px;
 }
@@ -13,7 +15,7 @@
 }
 
 .footer-right {
-  text-align: right !important;
+  text-align: right;
 }
 
 .disclaimer {
