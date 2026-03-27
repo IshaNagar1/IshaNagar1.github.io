@@ -13,7 +13,7 @@ What Will Be Talked About:
 
 
 
-## HEARING: WHAT DOES IT MEAN?
+## Hearing: What Does It Mean?
 
 
 
@@ -35,7 +35,7 @@ helps filter out unnecessary noise for concentration.
 
 
 
-## HEARING LOSS: THE DEFINITION
+## Hearing Loss: The Definition
 
 
 
@@ -51,7 +51,7 @@ you also may not hear whispers.
 
 
 
-## WHY IS HEARING SO IMPORTANT? 
+## Why is Hearing So Important? 
 
 
 
@@ -72,7 +72,7 @@ exhausted by the end of the day.
 
 
 
-## NEXT STEPS
+## Next Steps
 
 
 
