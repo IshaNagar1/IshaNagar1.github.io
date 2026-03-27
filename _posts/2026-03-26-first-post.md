@@ -1,7 +1,7 @@
 Let's talk about hearing and hearing loss! 
-- what it means 
-- why it is important 
-- next steps
+- What It Means 
+- Why It Is Important 
+- Next Steps
 
 ___
 
