@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Hearing and Hearing Loss!"
 date: 2026-03-26
 ---
