@@ -1,16 +1,44 @@
 <style>
-.footer-container {
-  display: flex;
-  justify-content: space-between;
-}
-.footer-right {
-  text-align: right;
-}
+  .site-footer {
+    padding: 24px 20px;
+  }
+
+  .footer-container {
+    max-width: 1100px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    gap: 40px;
+  }
+
+  .footer-left,
+  .footer-right {
+    width: 48%;
+  }
+
+  .footer-left {
+    text-align: left;
+  }
+
+  .footer-right {
+    text-align: right;
+  }
+
+  .footer-left p,
+  .footer-right p {
+    margin: 0 0 8px 0;
+  }
+
+  .disclaimer {
+    font-size: 0.9em;
+    color: #666;
+    line-height: 1.5;
+  }
 </style>
 
 <footer class="site-footer">
   <div class="footer-container">
-    
     <div class="footer-left">
       <p><strong>Hearing in Real Life</strong></p>
       <p>Isha Nagar</p>
@@ -19,10 +47,9 @@
     <div class="footer-right">
       <p><strong>A guide to hearing, hearing loss, and community</strong></p>
       <p class="disclaimer">
-        This blog shares educational information and personal experiences. 
+        This blog shares educational information and personal experiences.
         It is not a substitute for professional medical advice.
       </p>
     </div>
-
   </div>
 </footer>
