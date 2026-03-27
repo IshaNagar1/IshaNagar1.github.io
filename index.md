@@ -1,7 +1,14 @@
 ---
 layout: default
 ---
+<div style="display:flex; justify-content:center; align-items:flex-start; gap:24px;">
 
+<div style="width:140px; flex-shrink:0;">
+<img src="/assets/images/cartoon.jpg" alt="cartoon" style="width:100%; border-radius:12px; opacity:0.9;">
+</div>
+
+<div style="max-width:720px; flex:1;">
+  
 # Welcome to the Hearing World! 
 
 **Let's explore together - This is a space where I write about hearing, hearing loss, Audiology, Assistive Technology, and personal experience.**
@@ -33,3 +40,11 @@ Hearing is more than ears — it’s how we connect, learn, and belong. I wanted
 {% for post in site.posts %}
 - [{{ post.title }}]({{ post.url | relative_url }})
 {% endfor %}
+
+</div>
+
+<div style="width:140px; flex-shrink:0;">
+<img src="/assets/images/cartoon.jpg" alt="cartoon" style="width:100%; border-radius:12px; opacity:0.9;">
+</div>
+
+</div>
