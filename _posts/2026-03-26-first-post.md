@@ -52,7 +52,8 @@ they start to isolate themselves. Imagine trying to listen to your
 favorite TV show with the volume barely audible. It is definite that 
 you may have to lean in to keep up but it is also known that ... the difficulty ...
 sentence is ...  which is why ...
-^
+
+      
 See what I did there? This occurs more often for people with hearing loss.
 This showcases how difficult it may be for a person to keep up with a conversation.
 The brain has to work overtime to 'fill in the blanks', which can make anyone
