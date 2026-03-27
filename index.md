@@ -1,6 +1,6 @@
 ---
 layout: default
----\
+---
 
 # Hearing in Real Life
 
