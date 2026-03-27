@@ -1,4 +1,4 @@
-YAML
+
 
 ___
 layout: default
