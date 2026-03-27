@@ -4,8 +4,8 @@ scss
 ---
 
 .footer-container {
-  display: flex;
-  justify-content: space-between;
+  display: flex !important;
+  justify-content: space-between !important;
   align-items: flex-start;
   padding-top: 20px;
 }
@@ -15,7 +15,7 @@ scss
 }
 
 .footer-right {
-  text-align: right;
+  text-align: right !important;
 }
 
 .disclaimer {
