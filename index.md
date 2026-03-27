@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+<img src="/assets/images/cartoon.jpg" alt="cartoon" style="float:right; width:140px; border-radius:12px; margin:0 0 20px 20px;">
 
 # Welcome to the Hearing World! 
 
@@ -33,3 +34,5 @@ Hearing is more than ears — it’s how we connect, learn, and belong. I wanted
 {% for post in site.posts %}
 - [{{ post.title }}]({{ post.url | relative_url }})
 {% endfor %}
+
+<div style="clear:both;"></div>
