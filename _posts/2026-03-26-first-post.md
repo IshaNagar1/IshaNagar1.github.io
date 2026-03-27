@@ -1,5 +1,5 @@
 ---
-title: "Let's talk about hearing and hearing loss!"
+title: "Hearing and Hearing Loss!"
 date: 2026-03-26
 ---
 
