@@ -10,10 +10,10 @@ What Will Be Talked About:
 - Why Is This Important
 - Next Steps in our Journey Together
 
-___
 
-HEARING: WHAT DOES IT MEAN?
-___
+
+## HEARING: WHAT DOES IT MEAN?
+
 
 
 Think of your ears as a window. When the 
@@ -32,11 +32,11 @@ The brain, then does its job of recognizing those
 sounds and picking out what is relevant to you, and 
 helps filter out unnecessary noise for concentration. 
 
-___
 
-HEARING LOSS: THE DEFINITION
 
-___
+## HEARING LOSS: THE DEFINITION
+
+
 
 
 Hearing loss occurs when there is damage in the hearing system. 
@@ -48,11 +48,11 @@ are difficult to understand, sound distorted or fuzzy.
 You may hear an airplane in the sky fly over your city, but
 you also may not hear whispers.
 
-___
 
-WHY IS HEARING SO IMPORTANT? 
 
-___
+## WHY IS HEARING SO IMPORTANT? 
+
+
 
 
 Hearing loss does, in fact, affect a person's quality of life.
@@ -69,11 +69,11 @@ This showcases how difficult it may be for a person to keep up with a conversati
 The brain has to work overtime to 'fill in the blanks', which can make anyone
 exhausted by the end of the day. 
 
-___
 
-NEXT STEPS
 
-___
+## NEXT STEPS
+
+
 
 
 What does this mean for you, as the reader? It means understanding 
