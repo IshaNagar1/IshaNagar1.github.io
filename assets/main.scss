@@ -1,0 +1,24 @@
+scss
+
+---
+---
+
+.footer-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  padding-top: 20px;
+}
+
+.footer-left, .footer-right {
+  width: 45%;
+}
+
+.footer-right {
+  text-align: right;
+}
+
+.disclaimer {
+  font-size: 0.85em;
+  color: #666;
+}
