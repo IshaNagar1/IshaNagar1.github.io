@@ -8,6 +8,7 @@ ___
 HEARING: WHAT DOES IT MEAN?
 ___
 
+
 Think of your ears as a window. When the 
 window is open, you can hear just about 
 anything, without 'trying' to hear, like 
@@ -30,8 +31,9 @@ HEARING LOSS: THE DEFINITION
 
 ___
 
+
 Hearing loss occurs when there is damage in the hearing system. 
-There are different type of degrees of loss, but I'll
+There are different types of degrees of loss, but I'll
 go over that next time. When hearing decreases, it can feel 
 like the volume of all sounds has turned down. It feels
 like silence but not exactly. Many times, conversations 
@@ -44,6 +46,7 @@ ___
 WHY IS HEARING SO IMPORTANT? 
 
 ___
+
 
 Hearing loss does, in fact, affect a person's quality of life.
 What does that mean? It means, for the person with the loss, it 
@@ -64,6 +67,7 @@ ___
 NEXT STEPS
 
 ___
+
 
 What does this mean for you, as the reader? It means understanding 
 hearing is the first step toward better communication and knowing 
