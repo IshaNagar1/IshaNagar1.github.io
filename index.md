@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<img src="/assets/images/cartoon.JPG" alt="cartoon" style="float:right; width:140px; border-radius:12px; margin:0 0 20px 20px;">
+<img src="/assets/images/cartoon.JPG" alt="cartoon" style="float:right; width:150px; border-radius:12px; margin:0 0 20px 20px;">
 
 # Welcome to the Hearing World! 
 
