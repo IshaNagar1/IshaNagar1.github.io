@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Welcome to the Hearing World. 
+# Welcome to the Hearing World! 💙💚🩵
 
 **Let's explore together - This is a space where I write about hearing, hearing loss, Audiology, Assistive Technology, and personal experience.**
 
