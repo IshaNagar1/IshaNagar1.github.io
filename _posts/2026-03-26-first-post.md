@@ -8,7 +8,7 @@ Welcome to the world of hearing! Let's explore it together!
 What Will Be Talked About:
 - What Hearing and Hearing Loss Means 
 - Why Is This Important
-- Next Steps in our journey together
+- Next Steps in our Journey Together
 
 ___
 
