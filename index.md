@@ -7,6 +7,10 @@ layout: default
 **Let's explore together - This is a space where I write about hearing, hearing loss, Audiology, Assistive Technology, and personal experience.**
 
 
+
+
+
+
 ___
 
 ## What you’ll find here
@@ -14,6 +18,11 @@ ___
 - Thoughts on Audiology care and hearing technology
 - Personal reflections on living with hearing loss
 - Practical tips for communication and accessibility
+
+
+
+
+
 
 ## Why I started this blog
 Hearing is more than ears — it’s how we connect, learn, and belong. I wanted to create a space that explains these topics in a way that feels clear, human, and real.
