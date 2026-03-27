@@ -21,6 +21,6 @@ Hearing is more than ears — it’s how we connect, learn, and belong. I wanted
 
 ## Posts
 
-#{% for post in site.posts %}
-#- [{{ post.title }}]({{ post.url | relative_url }})
-#{% endfor %}
+## {% for post in site.posts %}
+## - [{{ post.title }}]({{ post.url | relative_url }})
+## {% endfor %}
