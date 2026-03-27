@@ -1,7 +1,14 @@
-Let's talk about hearing and hearing loss! 
-- What It Means 
-- Why It Is Important 
-- Next Steps
+---
+title: "Let's talk about hearing and hearing loss!"
+date: 2026-03-26
+---
+
+Welcome to the world of hearing! Let's explore it together! 
+
+What Will Be Talked About:
+- What Hearing and Hearing Loss Means 
+- Why Is This Important
+- Next Steps in our journey together
 
 ___
 
