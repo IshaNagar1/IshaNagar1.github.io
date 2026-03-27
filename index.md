@@ -17,10 +17,3 @@ ___
 
 ## Why I started this blog
 Hearing is more than ears — it’s how we connect, learn, and belong. I wanted to create a space that explains these topics in a way that feels clear, human, and real.
-
-
-## Posts
-
-## {% for post in site.posts %}
-## - [{{ post.title }}]({{ post.url | relative_url }})
-## {% endfor %}
