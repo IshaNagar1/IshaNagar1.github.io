@@ -1,3 +1,9 @@
+YAML
+
+___
+layout: default
+___
+
 # Hearing in Real Life
 
 **A guide to hearing, hearing loss, care, and community.**
