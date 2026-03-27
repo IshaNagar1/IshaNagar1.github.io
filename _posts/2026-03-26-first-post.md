@@ -26,7 +26,7 @@ helps filter out unnecessary noise for concentration.
 
 ___
 
-HEARING LOSS: ITS DEFINITION
+HEARING LOSS: THE DEFINITION
 
 ___
 
