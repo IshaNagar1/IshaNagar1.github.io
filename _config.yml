@@ -5,3 +5,6 @@ title: Hearing in Real Life
 theme: minima  
 author: Isha Nagar
 # description: A guide to hearing, hearing loss, and community 
+sass:
+   style: compressed
+
