@@ -3,37 +3,41 @@
 
 @import "minima";
 
-/* Footer layout */
+/* PAGE WIDTH FIX */
+.wrapper {
+  max-width: 720px;
+  margin: 0 auto;
+}
+
+/* FOOTER LAYOUT */
+.site-footer {
+  margin-top: 40px;
+}
+
 .footer-container {
   display: flex;
   justify-content: space-between;
   align-items: flex-start;
-  gap: 40px;
-  max-width: 1100px;
+  max-width: 720px;
   margin: 0 auto;
-  padding: 24px 20px 0 20px;
+  padding-top: 20px;
 }
 
-.footer-left,
-.footer-right {
-  width: 48%;
-}
-
+/* LEFT SIDE */
 .footer-left {
-  text-align: left;
+  width: 45%;
 }
 
+/* RIGHT SIDE */
 .footer-right {
+  width: 45%;
   text-align: right;
+  max-width: 320px;
 }
 
-.footer-left p,
-.footer-right p {
-  margin: 0 0 8px 0;
-}
-
+/* DISCLAIMER TEXT */
 .disclaimer {
-  font-size: 0.9em;
+  font-size: 0.85em;
   color: #666;
-  line-height: 1.5;
+  line-height: 1.4;
 }
