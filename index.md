@@ -1,52 +1,47 @@
 ---
-layout: page
-title: Hearing in Real Life
+layout: default
+title: ""
 permalink: /
 ---
 
 <style>
-.page-content .wrapper {
-  max-width: 1000px !important;
+html, body {
+  height: 100%;
+  margin: 0;
+}
+
+.page-content {
+  min-height: calc(100vh - 120px); /* adjusts for header + footer */
+  display: flex;
+  align-items: center;   /* vertical center */
+  justify-content: center; /* horizontal center */
 }
 
 .homepage-box {
-  max-width: 900px;
-  margin: 40px auto 80px auto;
-  padding: 0 40px;
-}
-
-.homepage-box h1 {
-  font-size: 3rem;
-  line-height: 1.2;
-  margin-bottom: 22px;
-  font-weight: 700;
+  max-width: 820px;
+  padding: 0 36px;
 }
 
 .homepage-box p {
-  font-size: 1.35rem;
-  line-height: 1.8;
+  font-size: 1.28rem;
+  line-height: 1.85;
   margin-bottom: 34px;
-  max-width: 760px;
 }
 
 .homepage-box h2 {
   font-size: 2rem;
-  margin-top: 36px;
-  margin-bottom: 14px;
-  font-weight: 600;
+  margin-top: 30px;
+  margin-bottom: 12px;
 }
 
 .homepage-box ul {
-  font-size: 1.2rem;
+  font-size: 1.18rem;
   line-height: 1.9;
-  padding-left: 28px;
-  margin-bottom: 34px;
+  padding-left: 26px;
 }
 </style>
 
 <div class="homepage-box">
-  <h1>Hearing in Real Life</h1>
-
   <p>
     Welcome to a space where I write about hearing, hearing loss, audiology, assistive technology, and personal experience.
   </p>
