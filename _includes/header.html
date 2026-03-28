@@ -1,18 +1,51 @@
-<header class="site-header hirl-header">
-  <div class="wrapper hirl-header-inner">
-    <a class="hirl-brand" href="/">Hearing in Real Life</a>
+<header style="background: linear-gradient(to right, #e4f5ea, #eef8f1); border-bottom: 1px solid #e6eee8; padding: 10px 0; position: relative; z-index: 1000;">
+  <div style="max-width: 900px; margin: 0 auto; padding: 0 20px; display: flex; justify-content: space-between; align-items: center; position: relative;">
 
-    <details class="hirl-menu">
-      <summary class="hirl-menu-button" aria-label="Open menu">☰</summary>
+    <a href="/" style="font-size: 20px; font-weight: 600; color: #333; text-decoration: none; line-height: 1.2;">
+      Hearing in Real Life
+    </a>
 
-      <div class="hirl-dropdown">
-        <a href="/">Home</a>
-        <a href="/resources/">Resources</a>
-        <a href="/podcast/">Podcast</a>
-        <a href="/2026/03/26/first-post.html">Posts</a>
-        <a href="/about/">About</a>
+    <div style="position: relative;">
+      <button
+        id="hirl-menu-button"
+        type="button"
+        aria-label="Open menu"
+        style="font-size: 28px; color: #333; background: transparent; border: none; cursor: pointer; padding: 6px 10px; line-height: 1;"
+      >
+        ☰
+      </button>
+
+      <div
+        id="hirl-dropdown"
+        style="display: none; position: absolute; right: 0; top: 42px; min-width: 220px; background: white; border: 1px solid #ddd; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.08); padding: 8px 0; z-index: 9999;"
+      >
+        <a href="/" style="display: block; padding: 10px 16px; color: #333; text-decoration: none; font-size: 16px;">Home</a>
+        <a href="/resources/" style="display: block; padding: 10px 16px; color: #333; text-decoration: none; font-size: 16px;">Resources</a>
+        <a href="/podcast/" style="display: block; padding: 10px 16px; color: #333; text-decoration: none; font-size: 16px;">Podcast</a>
+        <a href="/2026/03/26/first-post.html" style="display: block; padding: 10px 16px; color: #333; text-decoration: none; font-size: 16px;">Posts</a>
+        <a href="/about/" style="display: block; padding: 10px 16px; color: #333; text-decoration: none; font-size: 16px;">About</a>
       </div>
-    </details>
+    </div>
   </div>
 </header>
+
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    const button = document.getElementById("hirl-menu-button");
+    const dropdown = document.getElementById("hirl-dropdown");
+
+    if (button && dropdown) {
+      button.addEventListener("click", function (e) {
+        e.stopPropagation();
+        dropdown.style.display = dropdown.style.display === "block" ? "none" : "block";
+      });
+
+      document.addEventListener("click", function (e) {
+        if (!dropdown.contains(e.target) && e.target !== button) {
+          dropdown.style.display = "none";
+        }
+      });
+    }
+  });
+</script>
 
