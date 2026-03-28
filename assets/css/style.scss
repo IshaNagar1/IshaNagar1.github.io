@@ -3,20 +3,18 @@
 
 @import "minima";
 
-/* ===== PAGE WIDTH ===== */
+/* page */
 .wrapper {
   max-width: 900px;
   margin: 0 auto;
 }
 
-/* ===== BODY TEXT ===== */
 body {
   font-size: 22px;
   line-height: 1.8;
   color: #333;
 }
 
-/* ===== PAGE CONTENT ===== */
 .page-content {
   padding-top: 80px;
   padding-bottom: 80px;
@@ -42,7 +40,7 @@ body {
   margin-top: 40px;
 }
 
-/* ===== SAFE CUSTOM HEADER ===== */
+/* header */
 .hirl-header {
   background: linear-gradient(to right, #e4f5ea, #eef8f1);
   border-bottom: 1px solid #e6eee8;
@@ -124,7 +122,7 @@ body {
   background: #f5f5f5;
 }
 
-/* ===== FOOTER ===== */
+/* footer */
 .site-footer {
   background: linear-gradient(to right, #e4f5ea, #eef8f1);
   border-top: 1px solid #e6eee8;
@@ -159,30 +157,4 @@ body {
   font-size: 0.85em;
   color: #666;
   line-height: 1.4;
-}
-
-
-/* ===== FIX MENU CLICK AREA ===== */
-.hirl-menu summary {
-  list-style: none;
-  cursor: pointer;
-  display: block;
-}
-
-.hirl-menu-button {
-  font-size: 28px;
-  padding: 10px 14px;
-  display: block;
-  cursor: pointer;
-}
-
-/* make sure dropdown is clickable */
-.hirl-dropdown {
-  pointer-events: auto;
-}
-
-/* DEBUG (temporary, helps you see it) */
-.hirl-menu-button:hover {
-  background: rgba(0,0,0,0.05);
-  border-radius: 6px;
 }
