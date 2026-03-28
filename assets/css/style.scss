@@ -135,9 +135,9 @@ body {
 .footer-container {
   display: flex;
   justify-content: space-between;
-  max-width: 760px;
+  max-width: 900px;
   margin: 0 auto;
-  gap: 24px;
+  gap: 32px;
 }
 
 .footer-left,
@@ -147,7 +147,7 @@ body {
 
 .footer-right {
   text-align: right;
-  max-width: 320px;
+  max-width: 420px;
 }
 
 .footer-left p,
