@@ -128,13 +128,14 @@ body {
 .site-footer {
   background: linear-gradient(to right, #e4f5ea, #eef8f1);
   border-top: 1px solid #e6eee8;
-  padding: 10px 20px;   /* ↓ reduced from 18px */
-  margin-top: 20px;     /* slightly tighter */
+  padding: 10px 20px;
+  margin-top: 20px;
 }
 
 .footer-container {
   display: flex;
   justify-content: space-between;
+  align-items: flex-start;
   max-width: 900px;
   margin: 0 auto;
   gap: 20px;
@@ -147,16 +148,25 @@ body {
 
 .footer-right {
   text-align: right;
-  max-width: 380px;
+  max-width: 450px;
 }
 
-.footer-left p,
-.footer-right p {
-  margin: 0 0 2px 0;   /* ↓ tighter spacing */
+/* ONE LINE tagline */
+.tagline {
+  font-weight: 600;
+  margin: 0 0 4px 0;
+  white-space: nowrap;
 }
 
+/* TWO LINE disclaimer */
 .disclaimer {
-  font-size: 0.8em;    /* slightly smaller */
+  font-size: 0.8em;
   color: #666;
-  line-height: 1.3;    /* tighter lines */
+  line-height: 1.3;
+  margin: 0;
+
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
 }
