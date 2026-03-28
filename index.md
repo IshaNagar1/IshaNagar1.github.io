@@ -11,7 +11,7 @@ permalink: /
   </h1>
 
   <p style="font-size:1.2rem; line-height:1.8; margin:0 0 34px 0; max-width:700px;">
-    Welcome to a space where I write about hearing, hearing loss, audiology, assistive technology, and personal experience.
+    Welcome to a space focused on hearing, hearing loss, audiology, assistive technology, and lived experience.
   </p>
 
   <h2 style="font-size:1.75rem; margin:0 0 12px 0; font-weight:600;">
