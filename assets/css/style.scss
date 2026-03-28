@@ -16,13 +16,22 @@ body {
   color: #333;
 }
 
-/* ===== PARAGRAPHS ===== */
+/* ===== PAGE CONTENT ===== */
+.page-content {
+  padding-top: 80px;
+  padding-bottom: 80px;
+}
+
 .page-content p {
   font-size: 1.5rem;
   line-height: 1.9;
 }
 
-/* ===== HEADINGS ===== */
+.page-content li {
+  font-size: 1.3rem;
+  line-height: 1.9;
+}
+
 .page-content h1 {
   font-size: 2.6rem;
   font-weight: 600;
@@ -33,95 +42,85 @@ body {
   margin-top: 40px;
 }
 
-/* ===== LISTS ===== */
-.page-content li {
-  font-size: 1.3rem;
-  line-height: 1.9;
-}
-
-/* ===== PAGE SPACING ===== */
-.page-content {
-  padding-top: 80px;
-  padding-bottom: 80px;
-}
-
-/* ===== HEADER ===== */
-.site-header {
+/* ===== SAFE CUSTOM HEADER ===== */
+.hirl-header {
   background: linear-gradient(to right, #e4f5ea, #eef8f1);
   border-bottom: 1px solid #e6eee8;
   padding: 10px 0;
 }
 
-.header-wrapper {
+.hirl-header-inner {
   max-width: 900px;
   margin: 0 auto;
   padding: 0 20px;
-  display: flex;
+  display: flex !important;
   justify-content: space-between;
   align-items: center;
 }
 
-.site-title {
+.hirl-brand {
   font-size: 20px;
   font-weight: 600;
   color: #333;
   text-decoration: none;
+  line-height: 1.2;
 }
 
-/* ===== MENU ===== */
-.site-menu {
+.hirl-brand:hover {
+  text-decoration: none;
+}
+
+.hirl-menu {
   position: relative;
   margin-left: auto;
 }
 
-.site-menu summary {
+.hirl-menu summary {
   list-style: none;
   cursor: pointer;
 }
 
-.site-menu summary::-webkit-details-marker {
+.hirl-menu summary::-webkit-details-marker {
   display: none;
 }
 
-.menu-button {
+.hirl-menu-button {
+  display: inline-block;
   font-size: 28px;
   color: #333;
   padding: 6px 10px;
   line-height: 1;
-  display: inline-block;
   user-select: none;
 }
 
-/* ===== DROPDOWN ===== */
-.menu-dropdown {
+.hirl-dropdown {
   display: none;
   position: absolute;
   right: 0;
   top: 42px;
-  min-width: 190px;
-  background: white;
+  min-width: 220px;
+  background: #fff;
   border: 1px solid #ddd;
   border-radius: 8px;
-  box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
   padding: 8px 0;
   z-index: 9999;
 }
 
-/* SHOW MENU */
-.site-menu[open] .menu-dropdown {
+.hirl-menu[open] .hirl-dropdown {
   display: block;
 }
 
-/* LINKS */
-.menu-dropdown a {
+.hirl-dropdown a {
   display: block;
   padding: 10px 16px;
   color: #333;
   text-decoration: none;
   font-size: 16px;
+  white-space: nowrap;
 }
 
-.menu-dropdown a:hover {
+.hirl-dropdown a:hover {
   background: #f5f5f5;
 }
 
@@ -156,7 +155,6 @@ body {
   margin: 0 0 4px 0;
 }
 
-/* DISCLAIMER */
 .disclaimer {
   font-size: 0.85em;
   color: #666;
