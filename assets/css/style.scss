@@ -192,3 +192,20 @@ body {
 .hirl-header {
   background: linear-gradient(to right, #e4f5ea, #eef8f1) !important;
 }
+
+/* page background */
+body {
+  background: #f4faf6 !important;  /* very light green */
+}
+
+/* page background */
+body {
+  background: #f4faf6 !important;  /* very light green */
+}
+
+/* content area stays white */
+.page-content {
+  background: white;
+  padding: 40px;
+  border-radius: 12px;
+}
