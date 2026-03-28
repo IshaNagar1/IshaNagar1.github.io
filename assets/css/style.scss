@@ -124,9 +124,7 @@ body {
   background: #f5f5f5;
 }
 
-/* footer */
-/* ===== NUCLEAR FOOTER OVERRIDE ===== */
-
+/* ===== FOOTER ===== */
 .site-footer {
   background: linear-gradient(to right, #e4f5ea, #eef8f1) !important;
   border-top: 1px solid #e6eee8 !important;
@@ -185,37 +183,21 @@ body {
   display: block !important;
 }
 
-.site-footer {
-  background: linear-gradient(to right, #e4f5ea, #eef8f1) !important;
-}
-
-.hirl-header {
-  background: linear-gradient(to right, #e4f5ea, #eef8f1) !important;
-}
-
-* {
-  background-color: #f4faf6 !important;
-}
-
-/* MOBILE FIX */
+/* ===== MOBILE FOOTER FIX ===== */
 @media (max-width: 600px) {
-  .footer-container {
-    flex-direction: column;
-    text-align: center;
+  .site-footer .footer-container {
+    grid-template-columns: 1fr !important;
+    text-align: center !important;
   }
 
-  .footer-left,
-  .footer-right {
-    width: 100%;
-    max-width: 100%;
+  .site-footer .footer-left,
+  .site-footer .footer-right {
+    justify-self: center !important;
+    text-align: center !important;
+    max-width: 100% !important;
   }
 
-  .footer-right {
-    text-align: center;
-  }
-
-  .footer-left p,
-  .footer-right p {
-    text-align: center;
+  .site-footer .tagline {
+    white-space: normal !important;
   }
 }
