@@ -183,7 +183,7 @@ body {
   display: block !important;
 }
 
-/* ===== MOBILE FOOTER FIX ===== */
+/* MOBILE FIX*/
 @media (max-width: 600px) {
   .site-footer .footer-container {
     grid-template-columns: 1fr !important;
@@ -195,9 +195,15 @@ body {
     justify-self: center !important;
     text-align: center !important;
     max-width: 100% !important;
+    width: 100% !important;
   }
 
-  .site-footer .tagline {
-    white-space: normal !important;
+  .site-footer .footer-left p {
+    display: block !important;
+    width: 100% !important;
+  }
+
+  .site-footer .footer-left {
+    margin-bottom: 10px !important;
   }
 }
