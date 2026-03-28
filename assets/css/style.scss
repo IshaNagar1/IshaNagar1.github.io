@@ -172,3 +172,38 @@ body {
   line-height: 1.3;
   margin: 0;
 }
+
+/* FORCE footer layout */
+.site-footer .footer-container {
+  display: flex !important;
+  flex-direction: row !important;
+  justify-content: space-between !important;
+  align-items: flex-start !important;
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+/* LEFT SIDE */
+.site-footer .footer-left {
+  text-align: left;
+  flex: 1;
+}
+
+/* RIGHT SIDE */
+.site-footer .footer-right {
+  text-align: right;
+  flex: 1;
+  max-width: 450px;
+}
+
+/* spacing cleanup */
+.site-footer p {
+  margin: 0 0 4px 0;
+}
+
+/* tagline stays one line */
+.tagline {
+  white-space: nowrap;
+  font-weight: 600;
+}
