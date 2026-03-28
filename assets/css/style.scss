@@ -193,15 +193,15 @@ body {
   background: linear-gradient(to right, #e4f5ea, #eef8f1) !important;
 }
 
-/* page background */
-body {
-  background: #f4faf6 !important;  /* very light green */
+/* FORCE page background */
+html, body {
+  background-color: #f4faf6 !important;
 }
 
-
-/* content area stays white */
-.page-content {
-  background: white;
-  padding: 40px;
-  border-radius: 12px;
+/* FORCE content box */
+.page-content,
+.wrapper {
+  background-color: white !important;
+  padding: 40px !important;
+  border-radius: 12px !important;
 }
