@@ -128,8 +128,8 @@ body {
 .site-footer {
   background: linear-gradient(to right, #e4f5ea, #eef8f1);
   border-top: 1px solid #e6eee8;
-  padding: 18px 20px;
-  margin-top: 30px;
+  padding: 10px 20px;   /* ↓ reduced from 18px */
+  margin-top: 20px;     /* slightly tighter */
 }
 
 .footer-container {
@@ -137,7 +137,7 @@ body {
   justify-content: space-between;
   max-width: 900px;
   margin: 0 auto;
-  gap: 32px;
+  gap: 20px;
 }
 
 .footer-left,
@@ -147,16 +147,16 @@ body {
 
 .footer-right {
   text-align: right;
-  max-width: 420px;
+  max-width: 380px;
 }
 
 .footer-left p,
 .footer-right p {
-  margin: 0 0 4px 0;
+  margin: 0 0 2px 0;   /* ↓ tighter spacing */
 }
 
 .disclaimer {
-  font-size: 0.85em;
+  font-size: 0.8em;    /* slightly smaller */
   color: #666;
-  line-height: 1.4;
+  line-height: 1.3;    /* tighter lines */
 }
