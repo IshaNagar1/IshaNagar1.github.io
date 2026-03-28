@@ -1,12 +1,17 @@
 ---
-layout: default
-title: ""
+layout: page
+title: Hearing in Real Life
+permalink: /
 ---
 
 <style>
+.page-content .wrapper {
+  max-width: 1000px !important;
+}
+
 .homepage-box {
   max-width: 900px;
-  margin: 50px auto 80px auto;
+  margin: 40px auto 80px auto;
   padding: 0 40px;
 }
 
