@@ -196,3 +196,26 @@ body {
 * {
   background-color: #f4faf6 !important;
 }
+
+/* MOBILE FIX */
+@media (max-width: 600px) {
+  .footer-container {
+    flex-direction: column;
+    text-align: center;
+  }
+
+  .footer-left,
+  .footer-right {
+    width: 100%;
+    max-width: 100%;
+  }
+
+  .footer-right {
+    text-align: center;
+  }
+
+  .footer-left p,
+  .footer-right p {
+    text-align: center;
+  }
+}
