@@ -137,7 +137,7 @@ body {
   justify-content: space-between;
   align-items: flex-start;
   max-width: 900px;
-  width: 100%
+  width: 100%;
   margin: 0 auto;
   gap: 20px;
 }
@@ -149,20 +149,21 @@ body {
 
 .footer-left {
   text-align: left;
+}
 
 .footer-right {
   text-align: right;
   max-width: 450px;
 }
 
-/* ONE LINE tagline */
+/* tagline = ONE LINE */
 .tagline {
   font-weight: 600;
   margin: 0 0 4px 0;
   white-space: nowrap;
 }
 
-/* TWO LINE disclaimer */
+/* disclaimer = MAX 2 LINES */
 .disclaimer {
   font-size: 0.8em;
   color: #666;
