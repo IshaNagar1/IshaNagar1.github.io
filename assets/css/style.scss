@@ -90,29 +90,28 @@ ul {
 }
 
 .page-content p {
-  font-size: 1.45rem;
+  font-size: 1.5rem;
   line-height: 1.9;
-  color: #333;
 }
 
 .page-content li {
-  font-size: 1.25rem;
-  margin-bottom: 6px;
+  font-size: 1.3rem;
+}
+
+.page-content h1 {
+  font-size: 2.6rem;
 }
 
 .page-content h2 {
   font-size: 2rem;
-  margin-top: 30px;
 }
 
 .page-content {
-  min-height: 70vh;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  padding-top: 60px;
+  padding-top: 80px;
+  padding-bottom: 80px;
 }
 
-.page-content .wrapper {
-  width: 100%;
+.wrapper {
+  max-width: 900px;
+  margin: 0 auto;
 }
