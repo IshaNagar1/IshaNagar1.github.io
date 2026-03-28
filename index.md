@@ -1,11 +1,12 @@
 ---
 layout: default
 ---
-<img src="/assets/images/cartoon.JPG" alt="cartoon" style="float:right; width:160px; border-radius:12px; margin:0 0 20px 20px;">
 
 # Welcome to the Hearing World! 
 
-**Let's explore together - This is a space where I write about hearing, hearing loss, Audiology, Assistive Technology, and personal experience.**
+<img src="/assets/images/cartoon.JPG" alt="cartoon" style="display:block; margin:18px auto 22px auto; width:180px; border-radius:12px;">
+
+**Let's explore together. This is a space where I write about hearing, hearing loss, Audiology, Assistive Technology, and personal experience.**
 
 
 
