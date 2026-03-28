@@ -12,14 +12,14 @@ title: ""
 Let’s explore together. This is a space where I write about hearing, hearing loss, Audiology, Assistive Technology, and personal experience.
 </p>
 
-<hr style="max-width:500px; margin:25px auto;">
 
 
 
  
 ___
 
-## What you’ll find here
+<h2 style="text-align:center;">What you’ll find here</h2>
+
 - Everyday explanations of hearing and hearing loss
 - Thoughts on Audiology care and hearing technology
 - Personal reflections on living with hearing loss
@@ -30,11 +30,12 @@ ___
 
 
 
-## Why I started this blog
+<h2 style="text-align:center;">Why I started this blog</h2>
+
 Hearing is more than ears — it’s how we connect, learn, and belong. I wanted to create a space that explains these topics in a way that feels clear, human, and real.
 
 
-## Posts
+<h2 style="text-align:center;">Posts</h2>
 
 {% for post in site.posts %}
 - [{{ post.title }}]({{ post.url | relative_url }})
