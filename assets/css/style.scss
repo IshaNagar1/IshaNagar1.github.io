@@ -12,6 +12,7 @@
 /* FOOTER LAYOUT */
 .site-footer {
   margin-top: 40px;
+  background: linear-gradient(to right, #dff5ec, #ecf8f1);
 }
 
 .footer-container {
@@ -42,11 +43,7 @@
   line-height: 1.4;
 }
 
-* HEADER + FOOTER TINT */
+/* HEADER TINT */
 .site-header {
-  background: linear-gradient(to right, #dff5ec, #e8f3ff);
-}
-
-.site-footer {
-  background: linear-gradient(to right, #dff5ec, #e8f3ff);
+  background: linear-gradient(to right, #dff5ec, #ecf8f1);
 }
