@@ -150,3 +150,52 @@ body {
   color: #666;
   line-height: 1.4;
 }
+
+
+/* ===== CLEAN DROPDOWN MENU ===== */
+
+.site-menu summary {
+  list-style: none;
+}
+
+.site-menu summary::-webkit-details-marker {
+  display: none; /* removes that weird arrow */
+}
+
+.menu-button {
+  font-size: 26px;
+  cursor: pointer;
+  padding: 6px 10px;
+}
+
+/* DROPDOWN BOX */
+.menu-dropdown {
+  position: absolute;
+  right: 20px;
+  top: 60px;
+  background: white;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  padding: 10px 0;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+  display: none;
+  min-width: 200px;
+  z-index: 9999;
+}
+
+/* SHOW WHEN CLICKED */
+.site-menu[open] .menu-dropdown {
+  display: block;
+}
+
+/* LINKS */
+.menu-dropdown a {
+  display: block;
+  padding: 10px 16px;
+  text-decoration: none;
+  color: #333;
+}
+
+.menu-dropdown a:hover {
+  background: #f5f5f5;
+}
