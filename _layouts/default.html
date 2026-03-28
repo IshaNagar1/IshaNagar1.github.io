@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{% if page.title and page.title != "" %}{{ page.title }} | {% endif %}{{ site.title }}</title>
+  <link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}">
+</head>
+<body>
+
+  <header class="site-header">
+    <div class="wrapper header-wrapper">
+      <a class="site-title" href="/">Hearing in Real Life</a>
+
+      <details class="site-menu">
+        <summary class="menu-button">☰</summary>
+
+        <div class="menu-dropdown">
+          <a href="/">Home</a>
+          <a href="/resources/">Resources</a>
+          <a href="/podcast/">Podcast</a>
+          <a href="/2026/03/26/first-post.html">Posts</a>
+          <a href="/about/">About</a>
+        </div>
+      </details>
+    </div>
+  </header>
+
+  <main class="page-content" aria-label="Content">
+    <div class="wrapper">
+      {{ content }}
+    </div>
+  </main>
+
+  <footer class="site-footer">
+    <div class="footer-container">
+      <div class="footer-left">
+        <p><strong>Hearing in Real Life</strong></p>
+        <p>Isha Nagar</p>
+      </div>
+
+      <div class="footer-right">
+        <p><strong>A guide to hearing, hearing loss, and community</strong></p>
+        <p class="disclaimer">
+          This blog shares educational information and personal experiences.
+          It is not a substitute for professional medical advice.
+        </p>
+      </div>
+    </div>
+  </footer>
+
+</body>
+</html>
