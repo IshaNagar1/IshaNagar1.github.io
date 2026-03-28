@@ -160,3 +160,29 @@ body {
   color: #666;
   line-height: 1.4;
 }
+
+
+/* ===== FIX MENU CLICK AREA ===== */
+.hirl-menu summary {
+  list-style: none;
+  cursor: pointer;
+  display: block;
+}
+
+.hirl-menu-button {
+  font-size: 28px;
+  padding: 10px 14px;
+  display: block;
+  cursor: pointer;
+}
+
+/* make sure dropdown is clickable */
+.hirl-dropdown {
+  pointer-events: auto;
+}
+
+/* DEBUG (temporary, helps you see it) */
+.hirl-menu-button:hover {
+  background: rgba(0,0,0,0.05);
+  border-radius: 6px;
+}
