@@ -126,10 +126,6 @@ body {
 
 /* ===== FOOTER ===== */
 .site-footer {
-  background: linear-gradient(to right, #a7dca5, #a3d5ff, #d8caf6) !important;
-  border-top: 1px solid #d8e6e8 !important;
-  padding: 14px 20px !important;
-  margin-top: 20px !important;
   width: 100% !important;
 }
 
@@ -173,10 +169,6 @@ body {
 
 /* ===== MOBILE FOOTER FIX ===== */
 @media (max-width: 600px) {
-  .site-footer {
-    padding: 14px 16px !important;
-  }
-
   .footer-mobile-wrap {
     grid-template-columns: 1fr !important;
     gap: 10px !important;
@@ -201,4 +193,3 @@ body {
     white-space: normal !important;
   }
 }
-
