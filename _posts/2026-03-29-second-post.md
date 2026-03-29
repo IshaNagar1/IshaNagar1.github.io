@@ -35,11 +35,12 @@ Think of these as overlapping categories rather than completely separate.
 
 - Middle → Mixed (a combination of both)
   
----
 
-<div style="background: rgba(167, 220, 165, 0.12); padding: 22px; border-radius: 14px; margin: 32px 0;">
+<br>
 
-## Conductive Hearing Loss
+<div style="background: #eef9ee; padding: 22px; border: 1px solid #d6edd6; border-radius: 14px; margin: 32px 0;">
+
+<h2>Conductive Hearing Loss</h2>
 
 <h3>What It Is</h3>
 
@@ -81,9 +82,9 @@ Think of these as overlapping categories rather than completely separate.
 
 ---
 
-<div style="background: rgba(163, 213, 255, 0.12); padding: 22px; border-radius: 14px; margin: 32px 0;">
+<div style="background: #eef4fb; padding: 22px; border: 1px solid #d6e4f5; border-radius: 14px; margin: 32px 0;">
 
-## Sensorineural Hearing Loss
+<h2>Sensorineural Hearing Loss</h2>
 
 <h3>What It Is</h3>
 
@@ -127,9 +128,9 @@ Think of these as overlapping categories rather than completely separate.
 
 ---
 
-<div style="background: rgba(216, 202, 246, 0.12); padding: 22px; border-radius: 14px; margin: 32px 0;">
+<div style="background: #f3effc; padding: 22px; border: 1px solid #e2daf7; border-radius: 14px; margin: 32px 0;">
 
-## Mixed Hearing Loss
+<h2>Mixed Hearing Loss</h2>
 
 <h3>What It Is</h3>
 
