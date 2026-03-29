@@ -28,9 +28,11 @@ Before we dive into each type, here is a simple way to visualize all three toget
   <img src="/assets/images/Types_Of_Hearing_Loss.jpg" width="420">
 </p>
 
-Think of these as overlapping categories rather than completely separate.  
-This is where “mixed” hearing loss comes in.
+Think of these as overlapping categories rather than completely separate.
 
+- Left side → Conductive (sound is blocked)
+- Right side → Sensorineural (sound is less clear)
+- Middle → Mixed (a combination of both)
 ---
 
 <div style="background: rgba(167, 220, 165, 0.12); padding: 22px; border-radius: 14px; margin: 32px 0;">
