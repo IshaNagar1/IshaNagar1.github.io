@@ -141,7 +141,7 @@ Think of these as overlapping categories rather than completely separate.
 
 <h2>Mixed Hearing Loss</h2>
 
-<hr style="width: 330px; border: none; height: 3px; background-color: #c8b6f0; margin: 8px 0 16px 0; border-radius: 2px;">
+<hr style="width: 300px; border: none; height: 3px; background-color: #c8b6f0; margin: 8px 0 16px 0; border-radius: 2px;">
 
 <p>This is where both types come together, which can make things feel more difficult.</p>
 
