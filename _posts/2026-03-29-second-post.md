@@ -60,7 +60,7 @@ This occurs when sound cannot travel efficiently through the outer or middle ear
 Often **treatable or reversible**, depending on the cause.
 
 
-
+---
 
 
 ## Sensorineural Hearing Loss
@@ -93,7 +93,7 @@ This happens when there is damage to the inner ear or auditory nerve. It is typi
 Usually **permanent**, but very manageable with the right support and technology.
 
 
-
+---
 
 ## Mixed Hearing Loss
 
@@ -122,7 +122,7 @@ Requires treating **both parts of the problem** for the best outcome.
 
 
 
-
+---
 
 
 ### The Most Important Thing to Understand
