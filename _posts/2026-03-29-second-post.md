@@ -35,6 +35,7 @@ Think of these as overlapping categories rather than completely separate.
 
 - Middle → Mixed (a combination of both)
   
+---
 
 <br>
 
