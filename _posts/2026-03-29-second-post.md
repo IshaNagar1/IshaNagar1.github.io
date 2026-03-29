@@ -42,7 +42,7 @@ Think of these as overlapping categories rather than completely separate.
 
 <h2>Conductive Hearing Loss</h2>
 
----
+
 
 <p>This is when something is physically blocking sound from getting through.</p>
 
@@ -90,7 +90,7 @@ Think of these as overlapping categories rather than completely separate.
 
 <h2>Sensorineural Hearing Loss</h2>
 
----
+
 
 <p>This is when sound reaches the ear, but isn't processed as clearly.</p>
 
@@ -140,7 +140,7 @@ Think of these as overlapping categories rather than completely separate.
 
 <h2>Mixed Hearing Loss</h2>
 
----
+
 
 <p>This is where both types come together, which can make things feel more difficult.</p>
 
