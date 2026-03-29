@@ -4,9 +4,18 @@ title: ""
 permalink: /
 ---
 
-<div style="max-width:760px; margin:48px auto 56px auto; padding:0 28px;">
+<div style="
+  background:
+    radial-gradient(circle at 20% 30%, #FDF8F2 0%, transparent 40%),
+    radial-gradient(circle at 80% 70%, #F6EFE5 0%, transparent 40%),
+    #F6F2EA;
+  padding: 30px;
+  border-radius: 16px;
+">
 
-
+<div style="max-width:700px; margin:40px auto 60px auto; padding:0 20px;">
+  
+</div>
 
 
   <h1 style="font-size:2.6rem; line-height:1.2; margin:0 0 18px 0; font-weight:700;">
