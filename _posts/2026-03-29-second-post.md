@@ -47,31 +47,31 @@ Think of these as overlapping categories rather than completely separate.
 
  <h3>Common Causes</h3>
  
-<p>
-- Earwax buildup or blockages  
-- Ear infections or fluid in the middle ear  
-- Ruptured eardrum  
-- Problems with the middle-ear bones (e.g., otosclerosis)  
-- Congenital differences in ear structure
-</p>
+<ul>
+    <li>Earwax buildup or blockages</li> 
+    <li>Ear infections or fluid in the middle ear</li> 
+    <li>Ruptured eardrum</li> 
+    <li>Problems with the middle-ear bones (e.g., otosclerosis)</li>  
+    <li>Congenital differences in ear structure</li> 
+</ul>
 
 <h3>What This Feels Likes</h3>
 
-<p>
-- Sounds are muffled or quieter  
-- A feeling of fullness or pressure in the ear  
-- Trouble hearing clearly, especially in background noise  
-- Possible ear pain, drainage, or infections  
-</p>
+<ul>
+    <li>Sounds are muffled or quieter</li>   
+    <li>A feeling of fullness or pressure in the ear</li>  
+    <li>Trouble hearing clearly, especially in background noise</li>  
+    <li>Possible ear pain, drainage, or infections</li> 
+</ul>
 
 <h3>How Is This Treated</h3>
-<p>
-- Removing blockages (wax, foreign objects)  
-- Treating infections (medication, ear drops)  
-- Ear tubes in some cases  
-- Surgery if needed  
-- Hearing devices when appropriate  
-</p>
+<ul>
+    <li>Removing blockages (wax, foreign objects)</li>   
+    <li>Treating infections (medication, ear drops)</li>   
+    <li>Ear tubes in some cases</li> 
+    <li>Surgery if needed</li> 
+    <li>Hearing devices when appropriate</li>   
+</ul>
 
 <h3>Key Takeaway</h3>
 
@@ -91,33 +91,33 @@ Think of these as overlapping categories rather than completely separate.
 
 <h3>Common Causes</h3>
 
-<p>
-- Aging (presbycusis)  
-- Long-term noise exposure  
-- Ototoxic medications  
-- Head trauma or sudden loud noise  
-- Inner ear disorders or infections  
-- Genetic or congenital factors  
-</p>
+<ul>
+    <li>Aging (presbycusis)</li>  
+    <li>Long-term noise exposure</li>  
+    <li>Ototoxic medications</li> 
+    <li>Head trauma or sudden loud noise</li> 
+    <li>Inner ear disorders or infections</li>  
+    <li>Genetic or congenital factors</li> 
+</ul>
 
 <h3>What This Feels Like</h3>
 
-<p>
-- Sounds are less clear, not just quieter  
-- Difficulty understanding speech, especially in noise  
-- People may seem like they are “mumbling”  
-- Tinnitus (ringing or buzzing)  
-- Trouble following conversations  
-</p>
+<ul>
+    <li>Sounds are less clear, not just quieter</li>  
+    <li>Difficulty understanding speech, especially in noise</li>   
+    <li>People may seem like they are “mumbling”</li>   
+    <li>Tinnitus (ringing or buzzing)</li> 
+    <li>Trouble following conversations</li>  
+</ul>
 
 <h3>How Is This Treated</h3>
 
-<p>
-- Hearing aids  
-- Cochlear implants (when appropriate)  
-- Assistive listening devices  
-- Auditory training and communication strategies  
-</p>
+<ul>
+    <li>Hearing aids</li> 
+    <li>Cochlear implants (when appropriate)</li>   
+    <li>Assistive listening devices</li>   
+    <li>Auditory training and communication strategies</li>   
+</ul>
 
 <h3>Key Takeaway</h3>
 
@@ -137,29 +137,29 @@ Think of these as overlapping categories rather than completely separate.
 
 <h3>Common Causes</h3>
 
-<p>
-- Chronic ear infections alongside inner-ear damage  
-- Otosclerosis affecting multiple parts of the ear  
-- Trauma involving both middle and inner ear  
-- Congenital conditions affecting more than one part of the hearing system  
-</p>
+<ul>
+    <li>Chronic ear infections alongside inner-ear damage</li>   
+    <li>Otosclerosis affecting multiple parts of the ear</li> 
+    <li>Trauma involving both middle and inner ear</li> 
+    <li>Congenital conditions affecting more than one part of the hearing system</li>  
+</ul>
 
 <h3>What This Feels Like</h3>
 
-<p>
-- Reduced volume AND reduced clarity  
-- Difficulty understanding speech even when sounds are loud enough  
-- May include pressure, fullness, or drainage  
-- Tinnitus may also be present  
-</p>
+<ul>
+    <li>Reduced volume AND reduced clarity</li> 
+    <li>Difficulty understanding speech even when sounds are loud enough</li>  
+    <li>May include pressure, fullness, or drainage</li> 
+    <li>Tinnitus may also be present</li> 
+</ul>
 
 <h3>How Is This Treated</h3>
 
-<p>
-- Addressing the conductive component (e.g., infections, fluid, blockages)  
-- Managing the sensorineural component (e.g., hearing aids, implants)  
-- Often a combination of medical and audiologic care  
-</p>
+<ul>
+    <li>Addressing the conductive component (e.g., infections, fluid, blockages)</li>   
+    <li>Managing the sensorineural component (e.g., hearing aids, implants)</li> 
+    <li>Often a combination of medical and audiologic care</li> 
+</ul>
 
 <h3>Key Takeaway</h3>
 
