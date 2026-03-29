@@ -43,7 +43,7 @@ Think of these as overlapping categories rather than completely separate.
 
 <h2>Conductive Hearing Loss</h2>
 
-<hr style="width: 370px; border: none; height: 3px; background-color: #7faf8f; margin: 8px 0 16px 0; border-radius: 2px;">
+<hr style="width: 340px; border: none; height: 3px; background-color: #7faf8f; margin: 8px 0 16px 0; border-radius: 2px;">
  
 <p>This is when something is physically blocking sound from getting through.</p>
 
@@ -91,7 +91,7 @@ Think of these as overlapping categories rather than completely separate.
 
 <h2>Sensorineural Hearing Loss</h2>
 
-<hr style="width: 400px; border: none; height: 3px; background-color: #8cc8f0; margin: 8px 0 16px 0; border-radius: 2px;">
+<hr style="width: 380px; border: none; height: 3px; background-color: #8cc8f0; margin: 8px 0 16px 0; border-radius: 2px;">
 
 
 <p>This is when sound reaches the ear, but isn't processed as clearly.</p>
