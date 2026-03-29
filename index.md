@@ -40,8 +40,10 @@ permalink: /
     Posts
   </h2>
 
-  <ul style="font-size:1.08rem; line-height:1.9; margin:0; padding-left:26px;">
-    <li><a href="/2026/03/26/first-post.html">Hearing and Hearing Loss</a></li>
+  <ul>
+    {% for post in site.posts %}
+      <li>
+        <a href="{{ post.url }}">{{ post.title }}</a>
+      </li>
+    {% endfor %}
   </ul>
-
-</div>
