@@ -44,7 +44,7 @@ Think of these as overlapping categories rather than completely separate.
 
 ---
 
-<p>his is when something is physically blocking sound from getting through.</p>
+<p>This is when something is physically blocking sound from getting through.</p>
 
 <h3>What It Is</h3>
 
