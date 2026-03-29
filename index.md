@@ -5,18 +5,12 @@ permalink: /
 ---
 
 <div style="
-  background:
-    radial-gradient(circle at 20% 30%, #FDF8F2 0%, transparent 40%),
-    radial-gradient(circle at 80% 70%, #F6EFE5 0%, transparent 40%),
-    #F6F2EA;
+  background: linear-gradient(135deg, #fdf3ea 0%, #f9e7db 45%, #f6ddd0 100%);
   padding: 30px;
   border-radius: 16px;
 ">
 
 <div style="max-width:700px; margin:40px auto 60px auto; padding:0 20px;">
-  
-</div>
-
 
   <h1 style="font-size:2.6rem; line-height:1.2; margin:0 0 18px 0; font-weight:700;">
     Hearing in Real Life
@@ -56,3 +50,7 @@ permalink: /
       </li>
     {% endfor %}
   </ul>
+
+</div>
+
+</div>
