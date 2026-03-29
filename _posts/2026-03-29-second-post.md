@@ -42,7 +42,7 @@ Think of these as overlapping categories rather than completely separate.
 
 <h2>Conductive Hearing Loss</h2>
 
-<hr style="width: 60px; border: none; height: 3px; background-color: #8fbf9f; margin: 8px 0 16px 0; border-radius: 2px;">
+<hr style="width: 120px; border: none; height: 3px; background-color: #a9cdb6; margin: 8px 0 16px 0; border-radius: 2px;">
  
 <p>This is when something is physically blocking sound from getting through.</p>
 
