@@ -6,6 +6,9 @@ permalink: /
 
 <div style="max-width:760px; margin:48px auto 56px auto; padding:0 28px;">
 
+
+
+
   <h1 style="font-size:2.6rem; line-height:1.2; margin:0 0 18px 0; font-weight:700;">
     Hearing in Real Life
   </h1>
