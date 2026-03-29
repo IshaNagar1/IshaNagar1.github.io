@@ -28,9 +28,6 @@ Before we dive into each type, here is a simple way to visualize all three toget
   <img src="/assets/images/Types_Of_Hearing_Loss.jpg" width="450">
 </p>
 
-Think of these as overlapping categories rather than completely separate. This is where “mixed” hearing loss comes in.
-
-
 
 
 
