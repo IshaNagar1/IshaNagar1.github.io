@@ -29,7 +29,7 @@ Before we dive into each type, here is a simple way to visualize all three toget
 </p>
 
 
-
+---
 
 ## Conductive Hearing Loss
 
