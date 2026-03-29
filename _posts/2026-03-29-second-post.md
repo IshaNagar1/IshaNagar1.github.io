@@ -135,4 +135,8 @@ The most important thing right now isn’t to figure everything out on your own,
 
 ### What Comes Next
 Now that you have a foundation, the next step is understanding what actually happens during a hearing appointment.
-In the next post, I’ll walk you through that process step by step. 💚
+In the next post, I’ll walk you through that process step by step. 
+
+Stay Tuned for the next post! 💚
+
+Isha :) 
