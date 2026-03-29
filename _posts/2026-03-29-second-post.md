@@ -11,10 +11,10 @@ Stick with me — I know this topic can feel like a lot at first, but I’ll bre
 ## What Will Be Talked About
 
 - The Three Types of Hearing Loss
-      - The Definition
-      - Causes
-      - Symptoms
-      - Treatments   
+    - The Definition
+    - Causes
+    - Symptoms
+    - Treatments   
 - The Most Important Thing to Understand
 - What Comes Next 
 
