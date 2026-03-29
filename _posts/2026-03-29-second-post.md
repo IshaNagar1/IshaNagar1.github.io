@@ -42,6 +42,8 @@ Think of these as overlapping categories rather than completely separate.
 
 <h2>Conductive Hearing Loss</h2>
 
+---
+
 <p>his is when something is physically blocking sound from getting through.</p>
 
 <h3>What It Is</h3>
@@ -82,11 +84,13 @@ Think of these as overlapping categories rather than completely separate.
 
 </div>
 
----
+
 
 <div style="background: #eef4fb; padding: 22px; border: 1px solid #d6e4f5; border-radius: 14px; margin: 32px 0;">
 
 <h2>Sensorineural Hearing Loss</h2>
+
+---
 
 <p>This is when sound reaches the ear, but isn't processed as clearly.</p>
 
@@ -130,11 +134,13 @@ Think of these as overlapping categories rather than completely separate.
 
 </div>
 
----
+
 
 <div style="background: #f3effc; padding: 22px; border: 1px solid #e2daf7; border-radius: 14px; margin: 32px 0;">
 
 <h2>Mixed Hearing Loss</h2>
+
+---
 
 <p>This is where both types come together, which can make things feel more difficult.</p>
 
