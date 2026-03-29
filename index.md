@@ -5,9 +5,17 @@ permalink: /
 ---
 
 <div style="
-  background: linear-gradient(135deg, #fdf3ea 0%, #f9e7db 45%, #f6ddd0 100%);
-  padding: 30px;
-  border-radius: 16px;
+  background:
+    linear-gradient(135deg, rgba(253, 243, 234, 0.95) 0%, rgba(249, 231, 219, 0.9) 50%, rgba(246, 221, 208, 0.85) 100%),
+    repeating-linear-gradient(
+      135deg,
+      rgba(0,0,0,0.015) 0px,
+      rgba(0,0,0,0.015) 2px,
+      transparent 2px,
+      transparent 6px
+    );
+  padding: 40px;
+  border-radius: 20px;
 ">
 
 <div style="max-width:700px; margin:40px auto 60px auto; padding:0 20px;">
