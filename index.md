@@ -6,13 +6,15 @@ permalink: /
 
 <div style="
   background:
-    linear-gradient(135deg, rgba(253, 243, 234, 0.95) 0%, rgba(249, 231, 219, 0.9) 50%, rgba(246, 221, 208, 0.85) 100%),
+    linear-gradient(135deg, #fdf3ea 0%, #f9e7db 50%, #f6ddd0 100%),
     repeating-linear-gradient(
       135deg,
-      rgba(0,0,0,0.015) 0px,
-      rgba(0,0,0,0.015) 2px,
-      transparent 2px,
-      transparent 6px
+      rgba(255, 140, 120, 0.08) 0px,
+      rgba(255, 140, 120, 0.08) 2px,
+      rgba(255, 180, 150, 0.05) 2px,
+      rgba(255, 180, 150, 0.05) 6px,
+      transparent 6px,
+      transparent 10px
     );
   padding: 40px;
   border-radius: 20px;
