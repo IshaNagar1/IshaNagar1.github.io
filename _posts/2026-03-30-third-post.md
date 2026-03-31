@@ -21,9 +21,28 @@ When I say “emotional impact,” I’m not talking about a textbook definition
 I’m talking about how hearing loss actually feels — the thoughts, the reactions,
 and the internal conversations that come with it.
 
-You might feel things like frustration, embarrassment, or anxiety. 
-At times, it can go deeper — shame, guilt, or even hopelessness.
-And sometimes, there are moments of growth too: acceptance, determination, even gratitude.
+You might feel things like:
+*
+- Frustration
+- Embarrassment
+- Anxiety
+*
+
+At times, it can go deeper:
+
+*
+- Shame
+- Guilt
+- Helplessness
+*
+
+And sometimes, there are moments of growth too:
+
+*
+- Acceptance
+- Determination
+- Gratitude
+*
 
 All of these emotions are valid.
 There is no one correct or incorrect way to feel.
@@ -63,28 +82,38 @@ From constantly trying to fill in gaps, guess what was said, and stay engaged, i
 
 And then, afterward, many people replay conversations in their head.
 
-“Did I hear that right?”  
 
-“Did I respond correctly?”  
+*“Did I hear that right?”*
 
-“Did I miss something important?”
+*“Did I respond correctly?”*  
+
+*“Did I miss something important?”*
+
 
 This can lead to self-doubt, overthinking, and a feeling of being “behind.” Over time, it can even affect confidence and identity.
 
 
 I experienced this very clearly one day in the car. I don’t remember where I was going, but I remember what was happening in my mind.
 
-It felt like two versions of myself were arguing,  like an angel and a devil sitting on my shoulders.
+It felt like two versions of myself were arguing. 
+
+Like an angel and a devil sitting on my shoulders.
 
 Angel: You are normal. Nothing is wrong with you.  
 
 Devil: No, something is wrong. You’re not good enough. Because of your hearing loss, you won’t succeed.  
 
-Angel: Don’t listen to that. You are good enough.
+Angel: *Don’t listen to that. You are good enough.*
 
 It kept going.
 
-And then suddenly, the words disappeared — and all that was left was anger.
+And then suddenly... 
+
+The words disappeared. 
+
+And all that was left was anger.
+
+---
 
 I wasn’t mad at anyone.  
 
@@ -114,15 +143,15 @@ Everyone experiences this emotional process differently.
 
 It can be shaped by your age, your culture, your beliefs, your environment, and your personal goals.
 
-If this is something you’re struggling with, it might help to write your thoughts down, talk to someone you trust, or even just say it out loud to yourself.
-
-Sometimes, simply expressing it can make you feel a little lighter.
-
-If any part of this resonates with you, just know -> you are not alone in this.
+If any part of this resonates with you, just know — you are not alone in this.
 
 There is nothing “wrong” with you.
 
 There is simply more to your experience than most people see.
+
+And that doesn’t make you less.
+
+If anything, it means you’ve been carrying more than most people understand.
 
 
 ----
