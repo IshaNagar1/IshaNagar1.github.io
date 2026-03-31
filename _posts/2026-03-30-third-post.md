@@ -47,21 +47,31 @@ There is no one correct or incorrect way to feel.
 
 The world is largely designed for people with typical hearing. Because of that, 
 there can be an unspoken pressure to fit into what is considered “normal.” Many individuals, 
-including myself, have felt that pressure. It can make you question your identity, 
-and even try to justify why you’re not “normal” because of your hearing loss.
+including myself, have felt that pressure. 
+
+It can make you question your identity, and even try to justify why you’re not “normal” because of your hearing loss.
+
 That way of thinking can be harmful. It creates expectations that don’t reflect real experiences.
-It can make everyday situations feel more difficult than they already are. For example, 
-someone might feel excluded during a family gathering or a group conversation because they can’t keep up.
-Or they might go to a movie theater and realize they can’t follow the dialogue.
+It can make everyday situations feel more difficult than they already are. 
+
+For example: 
+
+- someone might feel excluded during a family gathering or a group conversation because they can’t keep up.
+  
+- Or they might go to a movie theater and realize they can’t follow the dialogue.
+
 That moment can bring feelings of panic, frustration, or anxiety, 
 especially when something as simple as captions isn’t available.
 
-There have been times where I’ve gone to a salon to get my hair done, and I just nod 
+- There have been times where I’ve gone to a salon to get my hair done, and I just nod 
 instead of asking someone to repeat themselves because I feel embarrassed.
-Even at restaurants, to this day, I sometimes feel so mentally drained from 
+
+- Even at restaurants, to this day, I sometimes feel so mentally drained from 
 trying to follow conversations that I choose not to go out the next time.
 
-It’s not that I don’t want to be there. It’s that I don’t want to feel exhausted or left out.
+*It’s not that I don’t want to be there. It’s that I don’t want to feel exhausted or left out.*
+
+
 
 Misunderstandings happen more often than people realize.
 
