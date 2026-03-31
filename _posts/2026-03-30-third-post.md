@@ -125,4 +125,4 @@ There is simply more to your experience than most people see.
 
 For next time, stay tuned to learn about the process of a hearing appointment. 💜 I promise, this will be talked about. 😅
 
-- Isha :) 
+Isha :) 
