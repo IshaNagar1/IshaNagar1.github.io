@@ -22,27 +22,25 @@ I’m talking about how hearing loss actually feels — the thoughts, the reacti
 and the internal conversations that come with it.
 
 You might feel things like:
-*
+
 - Frustration
 - Embarrassment
 - Anxiety
-*
+
 
 At times, it can go deeper:
 
-*
 - Shame
 - Guilt
 - Helplessness
-*
+
 
 And sometimes, there are moments of growth too:
 
-*
 - Acceptance
 - Determination
 - Gratitude
-*
+
 
 All of these emotions are valid.
 There is no one correct or incorrect way to feel.
