@@ -91,11 +91,11 @@ From constantly trying to fill in gaps, guess what was said, and stay engaged, i
 And then, afterward, many people replay conversations in their head.
 
 
-*“Did I hear that right?”*
+**And then the thoughts start:**
 
-*“Did I respond correctly?”*  
-
-*“Did I miss something important?”*
+- “Did I hear that right?”
+- “Did I respond correctly?”
+- “Did I miss something important?”
 
 
 This can lead to self-doubt, overthinking, and a feeling of being “behind.” Over time, it can even affect confidence and identity.
@@ -107,11 +107,13 @@ It felt like two versions of myself were arguing.
 
 Like an angel and a devil sitting on my shoulders.
 
-Angel: You are normal. Nothing is wrong with you.  
+<div style="background:#f8fafc; padding:18px; border-left:4px solid #94a3b8; border-radius:10px; margin:25px 0;">
+<p><strong>Angel:</strong> You are normal. Nothing is wrong with you.</p>
 
-Devil: No, something is wrong. You’re not good enough. Because of your hearing loss, you won’t succeed.  
+<p><strong>Devil:</strong> No, something is wrong. You're not good enough. Because of your hearing loss, you won’t succeed.</p>
 
-Angel: *Don’t listen to that. You are good enough.*
+<p><strong>Angel:</strong> Don’t listen to that. You are good enough.</p>
+</div>
 
 It kept going.
 
@@ -131,6 +133,8 @@ I was just… mad.
 
 That moment felt like a form of grief.
 
+<hr style="margin:30px 0; opacity:0.3;">
+
 Grief isn’t only about losing someone. It can also come from being told, directly or indirectly, that something about you isn’t “right."
 Living through grief is very different from reading about it. It isn’t linear. It comes in waves. One day, you might feel completely okay.
 The next day, you might feel frustrated, overwhelmed, or back in denial.
@@ -147,19 +151,22 @@ And maybe, over time, you reach a point where you can say:
 
 ---
 
+<hr style="margin:30px 0; opacity:0.3;">
+
 Everyone experiences this emotional process differently.
 
 It can be shaped by your age, your culture, your beliefs, your environment, and your personal goals.
 
-If any part of this resonates with you, just know — you are not alone in this.
 
+<div style="background:#f0fdf4; padding:18px; border-radius:12px; margin:25px 0;">
+<p>If any part of this resonates with you, just know — you are not alone in this.</p>
+
+<div style= "background:#fef3f2; padding:18px; border-radius:12px; margin:25px 0; font-size:1.05rem;">
 There is nothing “wrong” with you.
+</div>
 
-There is simply more to your experience than most people see.
-
-And that doesn’t make you less.
-
-If anything, it means you’ve been carrying more than most people understand.
+<p>There is simply more to your experience than most people see.</p>
+</div>
 
 
 ----
