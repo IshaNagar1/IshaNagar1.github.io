@@ -77,7 +77,7 @@ Misunderstandings happen more often than people realize.
 
 I remember a professor of mine, who had deafness in one ear and hearing loss in the other, being asked, “Are you deaf?”
 
-She responded, “Well, yes, I am. Do you want to know more about it?”
+She responded, “Well, yes, I am. Do you want to learn more about it?”
 
 The person walked away.
 
