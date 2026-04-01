@@ -119,7 +119,7 @@ It felt like two versions of myself were arguing.
 
 Like an angel and a devil sitting on my shoulders.
 
-<div style="background:#f8fafc; padding:18px; border-left:4px solid #94a3b8; border-radius:10px; margin:25px 0;">
+<div style="background:#f5fefd; padding:18px; border-left:4px solid #94a3b8; border-radius:10px; margin:25px 0;">
 <p><strong>Angel:</strong> You are normal. Nothing is wrong with you.</p>
 
 <p><strong>Devil:</strong> No, something is wrong. You're not good enough. Because of your hearing loss, you won’t succeed.</p>
