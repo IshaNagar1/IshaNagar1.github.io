@@ -123,7 +123,7 @@ The words disappeared.
 
 And all that was left was anger.
 
----
+
 
 I wasn’t mad at anyone.  
 
@@ -149,7 +149,6 @@ And maybe, over time, you reach a point where you can say:
 “Hey, I have hearing loss… so what?”
 
 
----
 
 <hr style="margin:30px 0; opacity:0.3;">
 
