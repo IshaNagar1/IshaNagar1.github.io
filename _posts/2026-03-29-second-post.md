@@ -4,6 +4,14 @@ title: "Types of Hearing Loss"
 date: 2026-03-29
 ---
 
+## Types of Hearing Loss
+
+---
+
+March 29, 2026
+
+
+
 Hi there! Today's post is all about hearing loss! 
 
 Stick with me — I know this topic can feel like a lot at first, but I’ll break it down step by step.
