@@ -8,7 +8,8 @@ date: 2026-03-30
 
 ---
 
-03/30/2026
+March 30, 2026
+
 
 Hearing loss is not just about what you can’t hear.
 
