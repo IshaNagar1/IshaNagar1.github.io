@@ -166,7 +166,6 @@ It can be shaped by your age, your culture, your beliefs, your environment, and 
 </div>
 
 
-----
 
 For next time, stay tuned to learn about the process of a hearing appointment. 💜 I promise, this will be talked about. 😅
 
