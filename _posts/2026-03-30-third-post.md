@@ -21,6 +21,8 @@ It’s not always obvious, and it doesn’t look the same for everyone. But it i
 
 **Hearing loss can affect more than people expect.**
 
+<hr style="margin:30px 0; opacity:0.3;">
+
 When I say “emotional impact,” I’m not talking about a textbook definition. 
 
 I’m talking about how hearing loss actually feels — the thoughts, the reactions,
