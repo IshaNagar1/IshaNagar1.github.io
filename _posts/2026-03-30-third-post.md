@@ -48,6 +48,7 @@ And sometimes, there are moments of growth too:
 
 
 All of these emotions are valid.
+
 **There is no one correct or incorrect way to feel.**
 
 The world is largely designed for people with typical hearing.
