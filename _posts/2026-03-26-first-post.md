@@ -4,12 +4,15 @@ title: "Hearing and Hearing Loss!"
 date: 2026-03-26
 ---
 
+## Hearing and Hearing Loss 
 
-## Welcome to the world of hearing! Let's explore it together! 
-
---- 
+---
 
 March 26, 2026 
+
+
+Welcome to the world of hearing! Let's explore it together! 
+
 
 What Will Be Talked About:
 - What Hearing and Hearing Loss Means 
