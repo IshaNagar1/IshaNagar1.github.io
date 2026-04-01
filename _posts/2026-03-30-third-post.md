@@ -43,7 +43,7 @@ And sometimes, there are moments of growth too:
 
 
 All of these emotions are valid.
-There is no one correct or incorrect way to feel.
+**There is no one correct or incorrect way to feel.**
 
 The world is largely designed for people with typical hearing. Because of that, 
 there can be an unspoken pressure to fit into what is considered “normal.” Many individuals, 
@@ -69,7 +69,7 @@ instead of asking someone to repeat themselves because I feel embarrassed.
 - Even at restaurants, to this day, I sometimes feel so mentally drained from 
 trying to follow conversations that I choose not to go out the next time.
 
-*It’s not that I don’t want to be there. It’s that I don’t want to feel exhausted or left out.*
+**It’s not that I don’t want to be there. It’s that I don’t want to feel exhausted or left out.**
 
 
 
@@ -160,9 +160,7 @@ It can be shaped by your age, your culture, your beliefs, your environment, and 
 <div style="background:#f0fdf4; padding:18px; border-radius:12px; margin:25px 0;">
 <p>If any part of this resonates with you, just know — you are not alone in this.</p>
 
-<div style= "background:#fef3f2; padding:18px; border-radius:12px; margin:25px 0; font-size:1.05rem;">
-There is nothing “wrong” with you.
-</div>
+<p>There is nothing “wrong” with you.</p>
 
 <p>There is simply more to your experience than most people see.</p>
 </div>
