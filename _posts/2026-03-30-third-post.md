@@ -8,6 +8,8 @@ date: 2026-03-30
 
 ---
 
+03/30/2026
+
 Hearing loss is not just about what you can’t hear.
 
 There’s a whole side of it that people don’t really talk about — the emotional part.
@@ -153,7 +155,7 @@ The next day, you might feel frustrated, overwhelmed, or back in denial.
 For me, I’ve reached a place of acceptance, but that doesn’t mean those other feelings never come back. And that’s okay.
 
 
-<div style="background:#ffe4c4; padding:18px; border-radius:12px; margin:25px 0;">
+<div style="background:#fffff0; padding:18px; border-radius:12px; margin:25px 0;">
 <p> There isn’t a perfect way to handle this. There isn’t a single “correct” way to move through it.</p>
   
 <p>Sometimes, the best thing you can do is let yourself feel it, and listen to what your mind and body are trying to tell you.</p>
