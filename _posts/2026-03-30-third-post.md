@@ -15,9 +15,11 @@ There’s a whole side of it that people don’t really talk about — the emoti
 The part that shows up in conversations, in your thoughts, and in how you feel about yourself.
 
 It’s not always obvious, and it doesn’t look the same for everyone. But it is there. 
-Hearing loss can affect more than people expect.
+
+**Hearing loss can affect more than people expect.**
 
 When I say “emotional impact,” I’m not talking about a textbook definition. 
+
 I’m talking about how hearing loss actually feels — the thoughts, the reactions,
 and the internal conversations that come with it.
 
@@ -45,9 +47,9 @@ And sometimes, there are moments of growth too:
 All of these emotions are valid.
 **There is no one correct or incorrect way to feel.**
 
-The world is largely designed for people with typical hearing. Because of that, 
-there can be an unspoken pressure to fit into what is considered “normal.” Many individuals, 
-including myself, have felt that pressure. 
+The world is largely designed for people with typical hearing.
+
+Because of this, there is an unspoken pressure to fit into what is considered “normal.” Many individuals, including myself, have felt that pressure. 
 
 It can make you question your identity, and even try to justify why you’re not “normal” because of your hearing loss.
 
@@ -75,17 +77,23 @@ trying to follow conversations that I choose not to go out the next time.
 
 Misunderstandings happen more often than people realize.
 
-I remember a professor of mine, who had deafness in one ear and hearing loss in the other, being asked, “Are you deaf?”
+<div style="background:#f5fefd; padding:18px; border-left:4px solid #94a3b8; border-radius:10px; margin:25px 0;">
+<p>I remember a professor of mine, who had deafness in one ear and hearing loss in the other, being asked, “Are you deaf?”</p>
 
-She responded, “Well, yes, I am. Do you want to learn more about it?”
+<p>She responded, “Well, yes, I am. Do you want to learn more about it?”</p>
 
-The person walked away.
+<p>The person walked away feeling embarrassed.</p>
+</div>
 
 Moments like that can stick with you.
 
 Over time, repeated experiences like these can lead someone to withdraw, feel isolated, or struggle with their mental health.
+
 This is why it’s so important to not only treat hearing loss, but also recognize the emotional challenges that come with it, 
-especially because it is often an invisible experience. At the end of the day, listening effort builds up. 
+especially because it is often an **invisible experience**. 
+
+At the end of the day, listening effort builds up. 
+
 From constantly trying to fill in gaps, guess what was said, and stay engaged, it becomes exhausting.
 
 And then, afterward, many people replay conversations in their head.
@@ -136,13 +144,20 @@ That moment felt like a form of grief.
 <hr style="margin:30px 0; opacity:0.3;">
 
 Grief isn’t only about losing someone. It can also come from being told, directly or indirectly, that something about you isn’t “right."
-Living through grief is very different from reading about it. It isn’t linear. It comes in waves. One day, you might feel completely okay.
+
+Living through grief is very different from reading about it. 
+
+It isn’t linear. It comes in waves. One day, you might feel completely okay.
 The next day, you might feel frustrated, overwhelmed, or back in denial.
 
 For me, I’ve reached a place of acceptance, but that doesn’t mean those other feelings never come back. And that’s okay.
 
-There isn’t a perfect way to handle this. There isn’t a single “correct” way to move through it.
-Sometimes, the best thing you can do is let yourself feel it, and listen to what your mind and body are trying to tell you.
+
+<div style="background:#ffe4c4; padding:18px; border-radius:12px; margin:25px 0;">
+<p> There isn’t a perfect way to handle this. There isn’t a single “correct” way to move through it.</p>
+  
+<p>Sometimes, the best thing you can do is let yourself feel it, and listen to what your mind and body are trying to tell you.</p>
+</div>
 
 And maybe, over time, you reach a point where you can say:
 
@@ -165,7 +180,7 @@ It can be shaped by your age, your culture, your beliefs, your environment, and 
 <p>There is simply more to your experience than most people see.</p>
 </div>
 
-
+<hr style="margin:30px 0; opacity:0.3;">
 
 For next time, stay tuned to learn about the process of a hearing appointment. 💜 I promise, this will be talked about. 😅
 
