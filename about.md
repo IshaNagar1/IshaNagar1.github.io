@@ -38,3 +38,7 @@ If anything I write resonates with you, then this space is for you too.
  
  **It’s all about understanding the experience behind hearing loss.**
 
+
+<div style="text-align: center; margin-top: 30px;">
+  <img src="/assets/images/Isha.jpeg" width="250" style="border-radius: 12px;">
+</div>
