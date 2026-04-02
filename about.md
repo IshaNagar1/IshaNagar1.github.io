@@ -10,7 +10,7 @@ Hi, I’m Isha.
 
 I created this space to talk about something that often gets overlooked:
 
-<span style=font-weight: 600;">the emotional side of hearing loss.</span>
+<span style="font-weight: 600;">the emotional side of hearing loss.</span>
 
 Hearing loss isn’t just about what you can or can’t hear. 
 
@@ -24,7 +24,7 @@ I’m currently working toward becoming a licensed Hearing Aid Dispenser in Cali
 
 I don’t think hearing loss should only be understood clinically. 
 
-<span style=font-weight: 600;">It should also be understood emotionally, socially, and personally.</span>
+<span style="font-weight: 600;">It should also be understood emotionally, socially, and personally.</span>
 
 
 If anything I write resonates with you, then this space is for you too.
@@ -32,11 +32,11 @@ If anything I write resonates with you, then this space is for you too.
 
  This blog isn’t about having all the answers. 
  
-<span style=font-weight: 600;">It’s all about understanding the experience behind hearing loss.</span>
+<span style="font-weight: 600;">It’s all about understanding the experience behind hearing loss.</span>
 
  </div>
 
 
 <div style="text-align: center; margin-top: 30px;">
-  <img src="/assets/images/your-image.jpg" width="320" style="border-radius: 16px; box-shadow: 0 4px 14px rgba(0,0,0,0.12);">
+  <img src="/assets/images/Isha.jpeg" width="320" style="border-radius: 16px; box-shadow: 0 4px 14px rgba(0,0,0,0.12);">
 </div>
