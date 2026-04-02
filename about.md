@@ -38,7 +38,5 @@ If anything I write resonates with you, then this space is for you too.
 
 
 <div style="text-align: center; margin-top: 30px;">
-  <div style="display: inline-block; background: #f8f9fb; padding: 12px; border-radius: 20px;">
-    <img src="/assets/images/your-image.jpg" width="320" style="border-radius: 14px;">
-  </div>
+  <img src="/assets/images/your-image.jpg" width="320" style="border-radius: 16px; box-shadow: 0 4px 14px rgba(0,0,0,0.12);">
 </div>
