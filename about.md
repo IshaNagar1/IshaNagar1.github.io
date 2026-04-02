@@ -4,7 +4,7 @@ title: About Me
 permalink: /about/
 ---
 
-
+<div style="max-width: 720px; margin: 0 auto; background: rgba(255,255,255,0.6); padding: 28px 30px; border-radius: 18px;">
 
 Hi, I’m Isha.
 
@@ -38,7 +38,9 @@ If anything I write resonates with you, then this space is for you too.
  
  **It’s all about understanding the experience behind hearing loss.**
 
+ </div>
+
 
 <div style="text-align: center; margin-top: 30px;">
-  <img src="/assets/images/Isha.jpeg" width="250" style="border-radius: 12px;">
+  <img src="/assets/images/Isha.jpeg" width="320" style="border-radius: 16px; box-shadow: 0 4px 14px rgba(0,0,0,0.12);">
 </div>
