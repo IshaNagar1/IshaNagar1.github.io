@@ -36,7 +36,13 @@ If anything I write resonates with you, then this space is for you too.
 
  </div>
 
-
 <div style="text-align: center; margin-top: 30px;">
-  <img src="/assets/images/Isha.jpeg" width="320" style="border-radius: 16px; box-shadow: 0 4px 14px rgba(0,0,0,0.12);">
+  <div style="
+    display: inline-block;
+    padding: 12px;
+    border-radius: 20px;
+    background: linear-gradient(135deg, #f3e8ff, #e6f7ec);
+  ">
+    <img src="/assets/images/Isha.jpeg" width="320" style="border-radius: 14px;">
+  </div>
 </div>
