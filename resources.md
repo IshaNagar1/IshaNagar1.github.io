@@ -5,6 +5,5 @@ permalink: /resources/
 ---
 
 
-Helpful tools, links, and information related to hearing, 
-hearing loss, audiology, assistive technology, and accessibility.
+[Learn and Try Tool](https://preview.learnandtry.org/) 
 
