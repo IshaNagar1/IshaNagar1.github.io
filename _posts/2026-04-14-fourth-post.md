@@ -119,7 +119,7 @@ It is okay to interrupt your clinican to ask your questions. Don't be shy. THe c
 5. Can I try devices before purchasing?
 6. What follow-up is needed?
 
-EMOTIONAL NOTE! 
+## EMOTIONAL NOTE! 
 
 Take time to process information. There is no rush. 
 
