@@ -139,3 +139,8 @@ Take time to process information. There is no rush.
 Bring a support person/animal if needed.
 
 Ask for written/printed results and treatment, including a clear plan. 
+
+
+For next time, stay tuned to learn all about the types of hearing aids. 💜 
+
+Isha :)
