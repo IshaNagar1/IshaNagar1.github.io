@@ -141,6 +141,6 @@ Bring a support person/animal if needed.
 Ask for written/printed results and treatment, including a clear plan. 
 
 
-For next time, stay tuned to learn all about the types of hearing aids. 💜 
+For next time, stay tuned to learn about the follow-up appointment and next steps after the first appointment. 💜 
 
 Isha :)
