@@ -1,5 +1,18 @@
+---
+layout: post
+title: "Steps For Your First Hearing Appointment"
+date: 2026-04-14
+---
 
 ## Steps For Your First Hearing Appointment
+
+---
+
+April 14, 2026
+
+
+
+
 
 ## What Will Be Talked About
 
@@ -8,7 +21,7 @@
 - Results
 - Planning Ahead 
 
----
+
 
 ## Before First Appointment: Physical Preparation
 
