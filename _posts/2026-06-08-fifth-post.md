@@ -26,10 +26,11 @@ Between the moment you walk out of that first appointment with an audiogram and 
 __there is a heavy, quiet space.__
 
 
+___
 
 I  call it the Unseen Intermission.
 
-
+___
 
 After your first hearing appointment, you are dropped into this space. 
 It is the heavy, quiet environment between receiving a diagnosis and deciding how to live with it.
