@@ -17,7 +17,7 @@ the diagrams, and the clinical data. I wrapped it up with a gentle reminder to t
 Initially, I planned to use this next post to jump straight into the second appointment—the physical fitting, the programming, 
 and the technology of hearing devices.
 
-** But as I sat down to write, I realized something incredibly significant was missing. **
+__But as I sat down to write, I realized something incredibly significant was missing.__
 
 We often talk about the clinical steps as a neat, linear checklist: *Test, Diagnose, Fit, Follow-up*.
 But human emotion doesn't live in a straight line.
@@ -85,7 +85,7 @@ You worry that you are a burden to your family, or you feel deep embarrassment w
 
 
 But confronting these ugly, heavy feelings is actually the most beneficial thing you can do. 
-** You cannot rush acceptance.**
+__You cannot rush acceptance.__
 Whether you are processing a new audiogram or unearthing years of childhood frustration, 
 this emotional friction is a necessary step toward healing.
 
