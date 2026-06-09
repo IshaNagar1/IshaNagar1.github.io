@@ -21,7 +21,7 @@ We often talk about the clinical steps as a neat, linear checklist: *Test, Diagn
 __there is a heavy, quiet space.__
 
 <div style="background: #fdfbfe; border-left: 4px solid #2AA198; padding: 18px; margin: 25px 0; border-radius: 0 6px 6px 0;">
-  <span style="font-weight: 700; color: #2AA198; font-size: 1.1rem; display: block; margin-bottom: 5px;">💡 The Unseen Intermission</span>
+  <span style="font-weight: 700; color: #2AA198; font-size: 1.1rem; display: block; margin-bottom: 5px;"></span>
   <em style="color: #444; font-size: 1.05rem;">I call it the Unseen Intermission.</em>
 </div>
 
