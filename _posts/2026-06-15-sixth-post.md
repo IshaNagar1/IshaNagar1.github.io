@@ -163,7 +163,7 @@ A hearing aid is not a replacement lens for your ears; it is a highly sophistica
 
 <div style="text-align: center; margin: 35px auto; padding: 20px; max-width: 450px; border-top: 1px solid #e0e0e0; border-bottom: 1px solid #e0e0e0;">
   <div style="font-size: 0.85rem; text-transform: uppercase; letter-spacing: 2px; color: #888; margin-bottom: 15px; font-weight: 600;">The Rules of Adaptation</div>
-  <div style="font-style: italic; font-size: 1.1rem; color: #c33a54; margin: 8px 0;">1. Hearing aids improve communication, they do not restore "perfect" anatomy.</div>
+  <div style="font-style: italic; font-size: 1.1rem; color: #c33a54; margin: 8px 0;">1. Hearing aids improve communication, they do not restore "perfect" hearing </div>
   <div style="font-style: italic; font-size: 1.1rem; color: #c33a54; margin: 8px 0;">2. Your brain must physically re-learn how to filter background noise.</div>
   <div style="font-style: italic; font-size: 1.1rem; color: #c33a54; margin: 8px 0;">3. Environmental sharpness is normal—it means the chip is doing its job.</div>
 </div>
