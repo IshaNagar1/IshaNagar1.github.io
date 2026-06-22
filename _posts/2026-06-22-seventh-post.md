@@ -126,7 +126,8 @@ We will dive into how to survive the first 48 hours in your own environment with
 
 <br>
 
-Stay tuned, and remember you are not alone! <span style="font-size: 1.5rem; background: linear-gradient(to right, #2AA198, #9b5de5, #ff007f); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">❤️</span>
+Stay tuned, and remember you are not alone!<span style="font-size: 1rem; background: linear-gradient(to right, #2AA198, #9b5de5, #ff007f); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">❤️</span>
+
 
 <br><br>
 
