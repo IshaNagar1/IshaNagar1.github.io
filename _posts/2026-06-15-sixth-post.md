@@ -199,7 +199,13 @@ You are the one who has to live with the devices, so your comfort, your lifestyl
 <h3><strong>Looking Ahead</strong></h3>
 
 Next time, we are going to pause the technical checklist and talk about the giant elephant in the room: <em>the financial shock and the info-dump.</em><br>
+
+<br><br>
+
 When a provider drops a massive wall of medical jargon alongside a price tag that can reach $5,000+ out-of-pocket, it is easy to freeze.<br>
+
+<br><br>
+
 We will look at what drives these costs, how to navigate the provider's point of view, and how to choose the right option for your budget.<br>
 
 <br>
