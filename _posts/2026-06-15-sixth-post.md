@@ -193,11 +193,13 @@ If something doesn’t feel right—whether it is the physical pressure of the d
 
 You are the one who has to live with the devices, so your comfort, your lifestyle, and your voice are what guide this entire process.
 
-## **Looking Ahead**
 
-Next time, we are going to pause the technical checklist and talk about the giant elephant in the room: _the financial shock and the info-dump._ 
 
-When a provider drops a massive wall of medical jargon alongside a price tag that can reach $5,000+ out-of-pocket, it is easy to freeze. We will look at what drives these costs, how to navigate the provider's point of view, and how to choose the right option for your budget.
+### **Looking Ahead**
+
+Next time, we are going to pause the technical checklist and talk about the giant elephant in the room: _the financial shock and the info-dump._  
+When a provider drops a massive wall of medical jargon alongside a price tag that can reach $5,000+ out-of-pocket, it is easy to freeze.  
+We will look at what drives these costs, how to navigate the provider's point of view, and how to choose the right option for your budget.  
 
 Stay tuned, and always remember to advocate for what works for you! 💜
 
