@@ -128,7 +128,6 @@ We will unpack exactly how to make choices across OTC hearing aids, assistive te
 
 Stay tuned, and remember you are not alone!<span style="font-size: 1rem; background: linear-gradient(to right, #2AA198, #9b5de5, #ff007f); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">❤️</span>
 
-
-<br><br>
+<br>
 
 Isha :)
