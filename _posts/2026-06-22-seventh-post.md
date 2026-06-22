@@ -121,8 +121,8 @@ Step forward on your own terms.
 
 <h3><strong>Looking Ahead</strong></h3>
 
-Next time, once you have chosen the technology tier and style that balances your budget, lifestyle, and comfort, we will talk about taking that customized baseline home.<br>
-We will dive into how to survive the first 48 hours in your own environment without burning out, how to manage sound fatigue, and how to build your confidence outside the clinic walls.<br>
+Next time, we are going to dive into alternative options in extensive detail, understand exactly how to navigate the complex world of adult insurance, state programs, and budget strategies.<br>
+We will unpack exactly how to make choices across OTC hearing aids, assistive technology setups, and unbundled clinical care frameworks so you know exactly where every dollar goes.<br>
 
 <br>
 
