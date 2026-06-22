@@ -92,9 +92,6 @@ BAHA systems utilize bone conduction—the body's natural ability to send sound 
 
 <br>
 
-### 🏥 Part 3: Active Middle Ear Implants (MEIs)
-
-Middle ear implants are specialized devices surgically attached directly to the moving ossicular chain bones behind the eardrum, mechanically reinforcing natural physical vibration patterns.
 
 ### 🏥 Part 3: Active Middle Ear Implants (MEIs)
 
