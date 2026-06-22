@@ -193,11 +193,7 @@ If something doesn’t feel right—whether it is the physical pressure of the d
 
 You are the one who has to live with the devices, so your comfort, your lifestyle, and your voice are what guide this entire process.
 
-<br>
-
-<h2 style="color: #2AA198; font-weight: bold; margin-top: 40px; margin-bottom: 20px;">Looking Ahead</h2>
-
-<br>
+## **Looking Ahead**
 
 Next time, we are going to pause the technical checklist and talk about the giant elephant in the room: _the financial shock and the info-dump._ 
 
@@ -206,4 +202,3 @@ When a provider drops a massive wall of medical jargon alongside a price tag tha
 Stay tuned, and always remember to advocate for what works for you! 💜
 
 Isha :)
-
