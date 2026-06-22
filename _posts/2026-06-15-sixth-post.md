@@ -193,8 +193,11 @@ If something doesn’t feel right—whether it is the physical pressure of the d
 
 You are the one who has to live with the devices, so your comfort, your lifestyle, and your voice are what guide this entire process.
 
+<br>
 
-## **Looking Ahead**
+<h2 style="color: #2AA198; font-weight: bold; margin-top: 40px; margin-bottom: 20px;">Looking Ahead</h2>
+
+<br>
 
 Next time, we are going to pause the technical checklist and talk about the giant elephant in the room: _the financial shock and the info-dump._ 
 
