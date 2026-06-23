@@ -8,6 +8,7 @@ date: 2026-06-15
 
 ---
 
+
 June 15, 2026
 
 In my last post, we explored the heavy, quiet space of the Unseen Intermission. Once the emotional dust settles after a diagnosis, it is time to step back into the clinic for your second appointment: **the fitting**. 
