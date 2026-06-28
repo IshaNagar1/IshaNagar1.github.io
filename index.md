@@ -25,7 +25,7 @@ permalink: /
   </h2>
 
   <ul style="font-size:1.08rem; line-height:1.9; margin:0 0 34px 0; padding-left:26px;">
-    <li>Everyday explanations of hearing and hearing loss</li>
+    <li>Weekly explanations of hearing and hearing loss</li>
     <li>Thoughts on audiology care and hearing technology</li>
     <li>Personal reflections on living with hearing loss</li>
     <li>Practical tips for communication and accessibility</li>
