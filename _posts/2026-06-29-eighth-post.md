@@ -68,7 +68,7 @@ But just like a new pair of prescription eyeglasses, the more consistently you w
 If you are a family member watching a loved one close the chapter on their hearing health while constantly complaining that they can't hear anything, 
 **don't be afraid to use some tough love**. Stop hiding their struggle. They deserve to stay connected to the world, but they have to choose to stop hiding behind their pride.
 
-<br><br>
+<br>
 
 <h3><strong>Looking Ahead</strong></h3>
 
