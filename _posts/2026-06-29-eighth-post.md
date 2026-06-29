@@ -73,7 +73,7 @@ If you are a family member watching a loved one close the chapter on their heari
 <h3><strong>Looking Ahead</strong></h3>
 
 Next time, we will pull back the curtain on the confusing world of insurance billing, Third-Party Administrators (TPAs), and hidden restrictions.<br>
-We will reveal exactly how insurance companies verify if a clinic is in-network, how recent managed care policy shifts impact your care options, and the exact script of questions you need to ask your payer.<br>
+We will reveal exactly how insurance companies verify if a clinic is in-network, how recent managed care policy shifts impact your care options, and the exact script of questions your provider/yourself will commonly ask the payer.<br>
 
 <br>
 
