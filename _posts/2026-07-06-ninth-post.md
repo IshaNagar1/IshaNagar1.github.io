@@ -112,8 +112,8 @@ To protect your care, you must understand how your policy's pool of money is han
 
 <br>
 
-### Looking Ahead
-<br> 
+<h3><strong>Looking Ahead</strong></h3>
+
 Next time, once you have successfully unlocked your insurance benefits and selected the technology tier that respects your budget, we will finally take those devices home.  
 We will walk through your first 48 hours outside the clinic walls—unpacking how to handle early sound fatigue, how to track your soundscapes, and how to train your brain without burning out.  
 
