@@ -130,7 +130,7 @@ To understand how your benefits are paid, you must know what category your healt
   At our clinic, we believe in a fully supported delivery model. Our comprehensive care packages don't just hand you a device; they bundle your professional programming, direct anatomical fitting verification, and unlimited office service visits for the first year to guarantee your investment actually works for your life.
 </div>
 
-<br><br>
+<br>
 
 <h3><strong>Looking Ahead</strong></h3>
 
