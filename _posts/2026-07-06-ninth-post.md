@@ -110,10 +110,9 @@ To protect your care, you must understand how your policy's pool of money is han
     6. How long am I 100% covered for future office service visits under this plan? <br>
     7. If you are not in-network, who do you know as an authorized in-network provider in our area/specific location? <br> 
 
-</div> 
+ </span> 
+</div>
 <br>
-<span> </span>
-
 <h3><strong>Looking Ahead</strong></h3>
 
 Next time, once you have successfully unlocked your insurance benefits and selected the technology tier that respects your budget, we will finally take those devices home.  
