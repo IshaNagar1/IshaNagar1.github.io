@@ -110,7 +110,9 @@ To protect your care, you must understand how your policy's pool of money is han
     6. How long am I 100% covered for future office service visits under this plan? <br>
     7. If you are not in-network, who do you know as an authorized in-network provider in our area/specific location? <br> 
 
+</div> 
 <br>
+<span> </span>
 
 <h3><strong>Looking Ahead</strong></h3>
 
