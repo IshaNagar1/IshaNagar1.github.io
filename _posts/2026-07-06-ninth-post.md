@@ -98,7 +98,7 @@ To protect your care, you must understand how your policy's pool of money is han
 *   **Medicare:** A uniform **federal program** for patients over the age of 65. Traditional Medicare completely excludes standard adult hearing aid coverage.
 *   **Medicaid:** A **state-funded** and state-administered program. Coverage depends entirely on your STATE—some regions offer complete funding, while others offer zero.
 
-<div style="background: #faf7fd; border-left: 4px solid #7b2cbf; padding: 20px; margin: 30px 0; border-radius: 0 8px 8px 0; line-height: 1.6;"> <span style="font-weight: 700; color: #7b2cbf; display: block; margin-bottom: 8px; letter-spacing: 1px;"> THE QUESTIONS YOU MUST ASK INSURANCE:</span>
+<div style="background: #faf7fd; border-left: 4px solid #7b2cbf; padding: 20px; margin: 30px 0; border-radius: 0 8px 8px 0; line-height: 1.6;"> <span style="font-weight: 700; color: #7b2cbf; display: block; margin-bottom: 8px; letter-spacing: 1px;"> </span>
   
 **THE QUESTIONS YOU MUST ASK INSURANCE:**
  
