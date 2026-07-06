@@ -107,10 +107,12 @@ To protect your care, you must understand how your policy's pool of money is han
     3. Is there an out-of-pocket maximum (OOPM), and does it apply to hearing aids?<br>
     4. What is my coinsurance percentage or copay amount?<br>
     5. Do I need a prior authorization or a formal referral reference number from a primary doctor?<br>
-    6. How long am I 100% covered for future office service visits under this plan?
-    7. If you are not in-network, who do you know as an authorized in-network provider in our area/specific location?
+    6. How long am I 100% covered for future office service visits under this plan? <br>
+    7. If you are not in-network, who do you know as an authorized in-network provider in our area/specific location? <br> 
 
-</br> </span> 
+</div> 
+<br><br> 
+</span>
 
 <h3><strong>Looking Ahead</strong></h3>
 
