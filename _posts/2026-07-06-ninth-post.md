@@ -98,19 +98,17 @@ To protect your care, you must understand how your policy's pool of money is han
 *   **Medicare:** A uniform **federal program** for patients over the age of 65. Traditional Medicare completely excludes standard adult hearing aid coverage.
 *   **Medicaid:** A **state-funded** and state-administered program. Coverage depends entirely on your STATE—some regions offer complete funding, while others offer zero.
 
-<div style="background: #faf7fd; border-left: 4px solid #7b2cbf; padding: 20px; margin: 30px 0; border-radius: 0 8px 8px 0; line-height: 1.6;"> <span style="font-weight: 700; color: #7b2cbf; display: block; margin-bottom: 8px; letter-spacing: 1px;"> </span>
-  
-**THE QUESTIONS YOU MUST ASK INSURANCE:**
- 
-Before committing to a device, call your payer, give them your clinic's Tax ID, Group NPI, and Provider NPI, and ask these exact questions:
-
- 1. Can we bill the clinic directly, or is it mandatory to use a 3rd party to get the benefit?  
- 2. Do I have a deductible? Does it apply to code V5261, or must it be met through regular medical visits first?  
- 3. Is there an out-of-pocket maximum (OOPM), and does it apply to hearing aids?  
- 4. What is my coinsurance percentage or copay amount?  
- 5. Do I need a prior authorization or a formal referral reference number from a primary doctor?  
- 6. How long am I 100% covered for future office service visits under this plan?  
- 7. If you are not in-network, who do you know as an authorized in-network provider in our area/specific location?
+<div style="background: #faf7fd; border-left: 4px solid #7b2cbf; padding: 20px; margin: 30px 0; border-radius: 0 8px 8px 0; line-height: 1.6;">
+  <span style="font-weight: 700; color: #7b2cbf; display: block; margin-bottom: 8px; letter-spacing: 1px;">🛡️ THE QUESTIONS YOU MUST ASK INSURANCE:</span>
+  <span style="font-size: 1.05rem; color: #2b2b2b;">
+    Before committing to a device, call your payer, give them your clinic's Tax ID, Group NPI, and Provider NPI, and ask these exact questions:<br><br>
+    1. Can we bill the clinic directly, or is it mandatory to use a 3rd party to get the benefit?<br>
+    2. Do I have a deductible? Does it apply to code V5261, or must it be met through regular medical visits first?<br>
+    3. Is there an out-of-pocket maximum (OOPM), and does it apply to hearing aids?<br>
+    4. What is my coinsurance percentage or copay amount?<br>
+    5. Do I need a prior authorization or a formal referral reference number from a primary doctor?<br>
+    6. How long am I 100% covered for future office service visits under this plan? <br>
+    7. If you are not in-network, who do you know as an authorized in-network provider in our area/specific location? <br> 
 
 <br>
 
