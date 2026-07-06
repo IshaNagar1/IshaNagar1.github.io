@@ -16,7 +16,7 @@ Most of it isn't even between you and the clinician—it is a complex back-and-f
 
 If you have ever wondered how an office verifies your benefits, why your coverage rules seem to change depending on your state and location, or why certain clinic appointments face strict service limits, it helps to look at the paperwork behind the clinic glass.
 
-__Understanding how insurance companies identify providers and use third parties is the key to unlocking your benefits without getting trapped by hidden restrictions._____
+__Understanding how insurance companies identify providers and use third parties is the key to unlocking your benefits without getting trapped by hidden restrictions.__
 
 ### How Insurance Tracks Us: Tax IDs, Group NPIs, and Provider NPIs
 
