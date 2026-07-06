@@ -18,9 +18,9 @@ It affects how you communicate, how you feel in social situations, your confiden
 
 A lot of that isn’t always visible, and it’s not always talked about.
 
-This blog is where I explore those experiences—both from a personal perspective and through what I’ve learned in hearing healthcare. 
+This blog is where I explore those experience -> both from a personal perspective and through what I’ve learned in hearing healthcare. 
 
-I’m currently working toward becoming a licensed Hearing Aid Dispenser in California, and I’m interested in how hearing care, accessibility, and real-life experiences all connect.
+I’m currently working toward becoming a licensed Hearing Aid Dispenser in California, and I’m interested in how hearing care, accessibility, and real-life experiences all connect. In addition, I’m a student at CSUN, studying Assistive Technologies and Human Services, and I work as a clinical assistant at Eartone Hearing Aid Center, where I get to see this side of care up close every week.
 
 I don’t think hearing loss should only be understood clinically. 
 
