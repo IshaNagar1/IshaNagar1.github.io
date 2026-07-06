@@ -120,6 +120,4 @@ We will walk through your first 48 hours outside the clinic walls—unpacking ho
 
 Stay tuned, and always remember to advocate for what works for you! <span style="font-size: 1rem; background: linear-gradient(to right, #2AA198, #9b5de5, #ff007f); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">❤️</span>
 
-<br>
-
 Isha :)
