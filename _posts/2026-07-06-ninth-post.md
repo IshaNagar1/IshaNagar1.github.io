@@ -97,7 +97,7 @@ To protect your care, you must understand how your policy's pool of money is han
 ### 🏛️ Federal vs. State Funding Boundaries
 *   **Medicare:** A uniform **federal program** for patients over the age of 65. Traditional Medicare completely excludes standard adult hearing aid coverage.
 *   **Medicaid:** A **state-funded** and state-administered program. Coverage depends entirely on your STATE—some regions offer complete funding, while others offer zero.
-*
+
 ## <span style="color:#2AA198;">Understanding Your Insurance Plan Types</span>
 
 To understand how your benefits are paid, you must know what category your health coverage falls into. Insurance plans generally fit into one of three major legal frameworks:
@@ -105,7 +105,7 @@ To understand how your benefits are paid, you must know what category your healt
 * **PPO (Preferred Provider Organization):** Gives you more freedom to see providers out-of-network without a referral, though your out-of-pocket coinsurance or copay will be significantly lower if you stay in-network.
 * **EPO (Exclusive Provider Organization):** A hybrid network where services are covered only if you use the network's specific local in-network providers, except for emergency situations.
 
-<br><br>
+<br>
 
 <div style="background: #faf7fd; border-left: 4px solid #7b2cbf; padding: 20px; margin: 30px 0; border-radius: 0 8px 8px 0; line-height: 1.6;">
   <span style="font-weight: 700; color: #7b2cbf; display: block; margin-bottom: 8px; letter-spacing: 1px;">🛡️ THE QUESTIONS YOU MUST ASK INSURANCE:</span>
