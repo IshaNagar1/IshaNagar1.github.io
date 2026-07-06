@@ -112,7 +112,7 @@ To understand how your benefits are paid, you must know what category your healt
 <div style="background: #faf7fd; border-left: 4px solid #7b2cbf; padding: 20px; margin: 30px 0; border-radius: 0 8px 8px 0; line-height: 1.6;">
   <span style="font-weight: 700; color: #7b2cbf; display: block; margin-bottom: 8px; letter-spacing: 1px;">🛡️ THE QUESTIONS YOU MUST ASK INSURANCE:</span>
   <span style="font-size: 1.05rem; color: #2b2b2b;">
-    When you call your insurance company yourself, have your member ID and date of birth ready, and ask these exact questions:<br><br>
+    When you, the client/patient call your insurance company yourself, have your member ID and date of birth ready, and ask these exact questions:<br><br>
     1. Can my hearing clinic bill you directly, or is a 3rd party required to access this benefit?<br>
     2. Do I have a deductible? Does it apply to code V5261, or must it be met through regular medical visits first?<br>
     3. Is there an out-of-pocket maximum (OOPM), and does it apply to hearing aids?<br>
